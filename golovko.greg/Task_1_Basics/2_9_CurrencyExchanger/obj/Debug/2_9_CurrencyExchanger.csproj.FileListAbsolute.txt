@@ -1,0 +1,5 @@
+C:\Users\Головко\Desktop\Task_1_Basics\2_9_CurrencyExchanger\bin\Debug\2_9_CurrencyExchanger.exe.config
+C:\Users\Головко\Desktop\Task_1_Basics\2_9_CurrencyExchanger\bin\Debug\2_9_CurrencyExchanger.exe
+C:\Users\Головко\Desktop\Task_1_Basics\2_9_CurrencyExchanger\bin\Debug\2_9_CurrencyExchanger.pdb
+C:\Users\Головко\Desktop\Task_1_Basics\2_9_CurrencyExchanger\obj\Debug\2_9_CurrencyExchanger.exe
+C:\Users\Головко\Desktop\Task_1_Basics\2_9_CurrencyExchanger\obj\Debug\2_9_CurrencyExchanger.pdb

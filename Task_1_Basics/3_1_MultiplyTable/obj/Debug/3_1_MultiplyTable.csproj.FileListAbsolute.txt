@@ -1,0 +1,5 @@
+C:\Users\Головко\Desktop\Task_1_Basics\3_1_MultiplyTable\bin\Debug\3_1_MultiplyTable.exe.config
+C:\Users\Головко\Desktop\Task_1_Basics\3_1_MultiplyTable\bin\Debug\3_1_MultiplyTable.exe
+C:\Users\Головко\Desktop\Task_1_Basics\3_1_MultiplyTable\bin\Debug\3_1_MultiplyTable.pdb
+C:\Users\Головко\Desktop\Task_1_Basics\3_1_MultiplyTable\obj\Debug\3_1_MultiplyTable.exe
+C:\Users\Головко\Desktop\Task_1_Basics\3_1_MultiplyTable\obj\Debug\3_1_MultiplyTable.pdb

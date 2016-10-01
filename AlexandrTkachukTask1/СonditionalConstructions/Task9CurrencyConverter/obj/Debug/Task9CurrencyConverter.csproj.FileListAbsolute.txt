@@ -1,0 +1,6 @@
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\СonditionalConstructions\Task9CurrencyConverter\bin\Debug\Task9CurrencyConverter.exe.config
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\СonditionalConstructions\Task9CurrencyConverter\bin\Debug\Task9CurrencyConverter.exe
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\СonditionalConstructions\Task9CurrencyConverter\bin\Debug\Task9CurrencyConverter.pdb
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\СonditionalConstructions\Task9CurrencyConverter\obj\Debug\Task9CurrencyConverter.csprojResolveAssemblyReference.cache
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\СonditionalConstructions\Task9CurrencyConverter\obj\Debug\Task9CurrencyConverter.exe
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\СonditionalConstructions\Task9CurrencyConverter\obj\Debug\Task9CurrencyConverter.pdb

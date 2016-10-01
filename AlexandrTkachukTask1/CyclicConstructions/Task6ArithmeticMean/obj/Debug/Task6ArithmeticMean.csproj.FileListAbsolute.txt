@@ -1,0 +1,6 @@
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\CyclicConstructions\Task6ArithmeticMean\bin\Debug\Task6ArithmeticMean.exe.config
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\CyclicConstructions\Task6ArithmeticMean\bin\Debug\Task6ArithmeticMean.exe
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\CyclicConstructions\Task6ArithmeticMean\bin\Debug\Task6ArithmeticMean.pdb
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\CyclicConstructions\Task6ArithmeticMean\obj\Debug\Task6ArithmeticMean.csprojResolveAssemblyReference.cache
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\CyclicConstructions\Task6ArithmeticMean\obj\Debug\Task6ArithmeticMean.exe
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\CyclicConstructions\Task6ArithmeticMean\obj\Debug\Task6ArithmeticMean.pdb

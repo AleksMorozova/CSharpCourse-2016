@@ -1,0 +1,6 @@
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\СonditionalConstructions\Task8Lottery\bin\Debug\Task8Lottery.exe.config
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\СonditionalConstructions\Task8Lottery\bin\Debug\Task8Lottery.exe
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\СonditionalConstructions\Task8Lottery\bin\Debug\Task8Lottery.pdb
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\СonditionalConstructions\Task8Lottery\obj\Debug\Task8Lottery.csprojResolveAssemblyReference.cache
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\СonditionalConstructions\Task8Lottery\obj\Debug\Task8Lottery.exe
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\СonditionalConstructions\Task8Lottery\obj\Debug\Task8Lottery.pdb

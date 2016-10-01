@@ -1,0 +1,6 @@
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\СonditionalConstructions\Task2CatAndDog\bin\Debug\Task2CatAndDog.exe.config
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\СonditionalConstructions\Task2CatAndDog\bin\Debug\Task2CatAndDog.exe
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\СonditionalConstructions\Task2CatAndDog\bin\Debug\Task2CatAndDog.pdb
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\СonditionalConstructions\Task2CatAndDog\obj\Debug\Task2CatAndDog.csprojResolveAssemblyReference.cache
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\СonditionalConstructions\Task2CatAndDog\obj\Debug\Task2CatAndDog.exe
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\СonditionalConstructions\Task2CatAndDog\obj\Debug\Task2CatAndDog.pdb

@@ -1,0 +1,4 @@
+c:\users\svezho\documents\visual studio 2010\Projects\2_9_Currency\2_9_Currency\bin\Debug\2_9_Currency.exe
+c:\users\svezho\documents\visual studio 2010\Projects\2_9_Currency\2_9_Currency\bin\Debug\2_9_Currency.pdb
+c:\users\svezho\documents\visual studio 2010\Projects\2_9_Currency\2_9_Currency\obj\x86\Debug\2_9_Currency.exe
+c:\users\svezho\documents\visual studio 2010\Projects\2_9_Currency\2_9_Currency\obj\x86\Debug\2_9_Currency.pdb

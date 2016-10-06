@@ -1,0 +1,5 @@
+c:\users\svezho\documents\visual studio 2010\Projects\3_3_Guess\3_3_Guess\bin\Debug\3_3_Guess.exe
+c:\users\svezho\documents\visual studio 2010\Projects\3_3_Guess\3_3_Guess\bin\Debug\3_3_Guess.pdb
+c:\users\svezho\documents\visual studio 2010\Projects\3_3_Guess\3_3_Guess\obj\x86\Debug\3_3_Guess.exe
+c:\users\svezho\documents\visual studio 2010\Projects\3_3_Guess\3_3_Guess\obj\x86\Debug\3_3_Guess.pdb
+C:\Users\svezho\Documents\Visual Studio 2010\Projects\3_3_Guess\3_3_Guess\obj\x86\Debug\3_3_Guess.csprojResolveAssemblyReference.cache

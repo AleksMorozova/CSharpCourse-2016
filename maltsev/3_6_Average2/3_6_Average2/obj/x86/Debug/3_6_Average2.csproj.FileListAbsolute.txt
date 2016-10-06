@@ -1,0 +1,4 @@
+c:\users\svezho\documents\visual studio 2010\Projects\3_6_Average2\3_6_Average2\bin\Debug\3_6_Average2.exe
+c:\users\svezho\documents\visual studio 2010\Projects\3_6_Average2\3_6_Average2\bin\Debug\3_6_Average2.pdb
+c:\users\svezho\documents\visual studio 2010\Projects\3_6_Average2\3_6_Average2\obj\x86\Debug\3_6_Average2.exe
+c:\users\svezho\documents\visual studio 2010\Projects\3_6_Average2\3_6_Average2\obj\x86\Debug\3_6_Average2.pdb

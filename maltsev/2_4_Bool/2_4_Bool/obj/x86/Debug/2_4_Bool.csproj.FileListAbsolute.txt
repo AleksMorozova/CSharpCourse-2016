@@ -1,0 +1,5 @@
+c:\users\svezho\documents\visual studio 2010\Projects\2_4_Bool\2_4_Bool\bin\Debug\2_4_Bool.exe
+c:\users\svezho\documents\visual studio 2010\Projects\2_4_Bool\2_4_Bool\bin\Debug\2_4_Bool.pdb
+c:\users\svezho\documents\visual studio 2010\Projects\2_4_Bool\2_4_Bool\obj\x86\Debug\2_4_Bool.exe
+c:\users\svezho\documents\visual studio 2010\Projects\2_4_Bool\2_4_Bool\obj\x86\Debug\2_4_Bool.pdb
+C:\Users\svezho\Documents\Visual Studio 2010\Projects\2_4_Bool\2_4_Bool\obj\x86\Debug\2_4_Bool.csprojResolveAssemblyReference.cache

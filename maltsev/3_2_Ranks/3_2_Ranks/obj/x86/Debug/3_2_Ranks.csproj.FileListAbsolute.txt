@@ -1,0 +1,4 @@
+c:\users\svezho\documents\visual studio 2010\Projects\3_2_Ranks\3_2_Ranks\bin\Debug\3_2_Ranks.exe
+c:\users\svezho\documents\visual studio 2010\Projects\3_2_Ranks\3_2_Ranks\bin\Debug\3_2_Ranks.pdb
+c:\users\svezho\documents\visual studio 2010\Projects\3_2_Ranks\3_2_Ranks\obj\x86\Debug\3_2_Ranks.exe
+c:\users\svezho\documents\visual studio 2010\Projects\3_2_Ranks\3_2_Ranks\obj\x86\Debug\3_2_Ranks.pdb

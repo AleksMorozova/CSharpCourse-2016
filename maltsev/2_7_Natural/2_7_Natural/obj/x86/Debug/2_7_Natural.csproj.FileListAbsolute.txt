@@ -1,0 +1,4 @@
+c:\users\svezho\documents\visual studio 2010\Projects\2_7_Natural\2_7_Natural\bin\Debug\2_7_Natural.exe
+c:\users\svezho\documents\visual studio 2010\Projects\2_7_Natural\2_7_Natural\bin\Debug\2_7_Natural.pdb
+c:\users\svezho\documents\visual studio 2010\Projects\2_7_Natural\2_7_Natural\obj\x86\Debug\2_7_Natural.exe
+c:\users\svezho\documents\visual studio 2010\Projects\2_7_Natural\2_7_Natural\obj\x86\Debug\2_7_Natural.pdb

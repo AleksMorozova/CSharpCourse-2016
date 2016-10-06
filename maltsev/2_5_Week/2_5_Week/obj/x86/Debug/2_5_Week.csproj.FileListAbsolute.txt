@@ -1,0 +1,4 @@
+c:\users\svezho\documents\visual studio 2010\Projects\2_5_Week\2_5_Week\bin\Debug\2_5_Week.exe
+c:\users\svezho\documents\visual studio 2010\Projects\2_5_Week\2_5_Week\bin\Debug\2_5_Week.pdb
+c:\users\svezho\documents\visual studio 2010\Projects\2_5_Week\2_5_Week\obj\x86\Debug\2_5_Week.exe
+c:\users\svezho\documents\visual studio 2010\Projects\2_5_Week\2_5_Week\obj\x86\Debug\2_5_Week.pdb

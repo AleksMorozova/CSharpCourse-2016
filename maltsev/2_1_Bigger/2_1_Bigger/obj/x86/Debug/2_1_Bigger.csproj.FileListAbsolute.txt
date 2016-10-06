@@ -1,0 +1,4 @@
+c:\users\svezho\documents\visual studio 2010\Projects\2_1_Bigger\2_1_Bigger\bin\Debug\2_1_Bigger.exe
+c:\users\svezho\documents\visual studio 2010\Projects\2_1_Bigger\2_1_Bigger\bin\Debug\2_1_Bigger.pdb
+c:\users\svezho\documents\visual studio 2010\Projects\2_1_Bigger\2_1_Bigger\obj\x86\Debug\2_1_Bigger.exe
+c:\users\svezho\documents\visual studio 2010\Projects\2_1_Bigger\2_1_Bigger\obj\x86\Debug\2_1_Bigger.pdb

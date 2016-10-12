@@ -1,0 +1,6 @@
+D:\Игры\Проэкты\HomeWork1(Циклы)\HomeWork1(Циклы)\bin\Debug\HomeWork1(Циклы).exe.config
+D:\Игры\Проэкты\HomeWork1(Циклы)\HomeWork1(Циклы)\obj\Debug\HomeWork1(Циклы).csprojResolveAssemblyReference.cache
+D:\Игры\Проэкты\HomeWork1(Циклы)\HomeWork1(Циклы)\bin\Debug\HomeWork1(Циклы).exe
+D:\Игры\Проэкты\HomeWork1(Циклы)\HomeWork1(Циклы)\bin\Debug\HomeWork1(Циклы).pdb
+D:\Игры\Проэкты\HomeWork1(Циклы)\HomeWork1(Циклы)\obj\Debug\HomeWork1(Циклы).exe
+D:\Игры\Проэкты\HomeWork1(Циклы)\HomeWork1(Циклы)\obj\Debug\HomeWork1(Циклы).pdb

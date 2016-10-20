@@ -1,0 +1,5 @@
+C:\Users\Головко\Desktop\Task_1_Basics\3_6_MiddleArifmeticRnd\bin\Debug\3_6_MiddleArifmeticRnd.exe.config
+C:\Users\Головко\Desktop\Task_1_Basics\3_6_MiddleArifmeticRnd\bin\Debug\3_6_MiddleArifmeticRnd.exe
+C:\Users\Головко\Desktop\Task_1_Basics\3_6_MiddleArifmeticRnd\bin\Debug\3_6_MiddleArifmeticRnd.pdb
+C:\Users\Головко\Desktop\Task_1_Basics\3_6_MiddleArifmeticRnd\obj\Debug\3_6_MiddleArifmeticRnd.exe
+C:\Users\Головко\Desktop\Task_1_Basics\3_6_MiddleArifmeticRnd\obj\Debug\3_6_MiddleArifmeticRnd.pdb

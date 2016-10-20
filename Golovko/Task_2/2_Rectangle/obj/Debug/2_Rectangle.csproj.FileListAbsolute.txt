@@ -1,0 +1,6 @@
+C:\Users\Головко\CSharpCourse-2016\Golovko\Task_2\2_Rectangle\bin\Debug\2_Rectangle.exe.config
+C:\Users\Головко\CSharpCourse-2016\Golovko\Task_2\2_Rectangle\bin\Debug\2_Rectangle.exe
+C:\Users\Головко\CSharpCourse-2016\Golovko\Task_2\2_Rectangle\bin\Debug\2_Rectangle.pdb
+C:\Users\Головко\CSharpCourse-2016\Golovko\Task_2\2_Rectangle\obj\Debug\2_Rectangle.csprojResolveAssemblyReference.cache
+C:\Users\Головко\CSharpCourse-2016\Golovko\Task_2\2_Rectangle\obj\Debug\2_Rectangle.exe
+C:\Users\Головко\CSharpCourse-2016\Golovko\Task_2\2_Rectangle\obj\Debug\2_Rectangle.pdb

@@ -1,0 +1,6 @@
+C:\Users\Головко\CSharpCourse-2016\Golovko\Task_2\4_Figure\bin\Debug\4_Figure.exe.config
+C:\Users\Головко\CSharpCourse-2016\Golovko\Task_2\4_Figure\bin\Debug\4_Figure.exe
+C:\Users\Головко\CSharpCourse-2016\Golovko\Task_2\4_Figure\bin\Debug\4_Figure.pdb
+C:\Users\Головко\CSharpCourse-2016\Golovko\Task_2\4_Figure\obj\Debug\4_Figure.csprojResolveAssemblyReference.cache
+C:\Users\Головко\CSharpCourse-2016\Golovko\Task_2\4_Figure\obj\Debug\4_Figure.exe
+C:\Users\Головко\CSharpCourse-2016\Golovko\Task_2\4_Figure\obj\Debug\4_Figure.pdb

@@ -1,0 +1,1 @@
+C:\Users\Головко\CSharpCourse-2016\Golovko\Task_2\Invoice\bin\Debug\Invoice.exe.config

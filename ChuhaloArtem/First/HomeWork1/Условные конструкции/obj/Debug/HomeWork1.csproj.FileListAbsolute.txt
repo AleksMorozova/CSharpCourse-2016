@@ -1,0 +1,21 @@
+c:\users\user\documents\visual studio 2015\Projects\Условные конструкции\Условные конструкции\bin\Debug\Условные конструкции.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Условные конструкции\Условные конструкции\bin\Debug\Условные конструкции.exe
+c:\users\user\documents\visual studio 2015\Projects\Условные конструкции\Условные конструкции\bin\Debug\Условные конструкции.pdb
+c:\users\user\documents\visual studio 2015\Projects\Условные конструкции\Условные конструкции\obj\Debug\Условные конструкции.exe
+c:\users\user\documents\visual studio 2015\Projects\Условные конструкции\Условные конструкции\obj\Debug\Условные конструкции.pdb
+c:\users\user\documents\visual studio 2015\Projects\Условные конструкции\Условные конструкции\obj\Debug\HomeWork1.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2015\Projects\HomeWork1\Условные конструкции\bin\Debug\Условные конструкции.exe.config
+C:\Users\USER\Documents\Visual Studio 2015\Projects\HomeWork1\Условные конструкции\obj\Debug\Условные конструкции.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\HomeWork1\Условные конструкции\obj\Debug\Условные конструкции.pdb
+D:\Игры\Проэкты\HomeWork1\Условные конструкции\bin\Debug\Условные конструкции.exe.config
+D:\Игры\Проэкты\HomeWork1\Условные конструкции\obj\Debug\Условные конструкции.exe
+D:\Игры\Проэкты\HomeWork1\Условные конструкции\obj\Debug\Условные конструкции.pdb
+D:\Игры\Проэкты\HomeWork1\Условные конструкции\bin\Debug\Условные конструкции.exe
+D:\Игры\Проэкты\HomeWork1\Условные конструкции\bin\Debug\Условные конструкции.pdb
+D:\Игры\Проэкты\HomeWork1\Условные конструкции\obj\Debug\HomeWork1.csprojResolveAssemblyReference.cache
+D:\Игры\C#\HomeWork1\Условные конструкции\bin\Debug\Условные конструкции.exe.config
+D:\Игры\C#\HomeWork1\Условные конструкции\obj\Debug\Условные конструкции.exe
+D:\Игры\C#\HomeWork1\Условные конструкции\obj\Debug\Условные конструкции.pdb
+D:\Игры\C#\HomeWork1\Условные конструкции\bin\Debug\Условные конструкции.exe
+D:\Игры\C#\HomeWork1\Условные конструкции\bin\Debug\Условные конструкции.pdb
+D:\Игры\C#\HomeWork1\Условные конструкции\obj\Debug\HomeWork1.csprojResolveAssemblyReference.cache

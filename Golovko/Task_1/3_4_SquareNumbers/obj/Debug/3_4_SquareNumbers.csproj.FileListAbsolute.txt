@@ -3,3 +3,8 @@ C:\Users\Головко\Desktop\Task_1_Basics\3_4_SquareNumbers\bin\Debug\3_4_Sq
 C:\Users\Головко\Desktop\Task_1_Basics\3_4_SquareNumbers\bin\Debug\3_4_SquareNumbers.pdb
 C:\Users\Головко\Desktop\Task_1_Basics\3_4_SquareNumbers\obj\Debug\3_4_SquareNumbers.exe
 C:\Users\Головко\Desktop\Task_1_Basics\3_4_SquareNumbers\obj\Debug\3_4_SquareNumbers.pdb
+C:\Users\Головко\CSharpCourse-2016\Golovko\Task_1\3_4_SquareNumbers\bin\Debug\3_4_SquareNumbers.exe.config
+C:\Users\Головко\CSharpCourse-2016\Golovko\Task_1\3_4_SquareNumbers\bin\Debug\3_4_SquareNumbers.exe
+C:\Users\Головко\CSharpCourse-2016\Golovko\Task_1\3_4_SquareNumbers\bin\Debug\3_4_SquareNumbers.pdb
+C:\Users\Головко\CSharpCourse-2016\Golovko\Task_1\3_4_SquareNumbers\obj\Debug\3_4_SquareNumbers.exe
+C:\Users\Головко\CSharpCourse-2016\Golovko\Task_1\3_4_SquareNumbers\obj\Debug\3_4_SquareNumbers.pdb

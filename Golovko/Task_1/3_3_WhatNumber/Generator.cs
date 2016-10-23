@@ -19,7 +19,7 @@ namespace _3_3_WhatNumber
         {
             lock(syncLocker)
             {
-                return rnd.Next(min, max);
+                return rnd.Next(min, max + 1);
             }
         }
     }

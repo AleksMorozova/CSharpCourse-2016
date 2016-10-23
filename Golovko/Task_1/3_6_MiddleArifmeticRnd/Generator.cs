@@ -19,7 +19,7 @@ namespace _3_6_MiddleArifmeticRnd
         {
             lock(syncLocker)
             {
-                return rnd.Next(min, max);
+                return rnd.Next(min, max + 1);
             }
         }
     }

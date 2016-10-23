@@ -9,3 +9,9 @@ C:\Users\Головко\Desktop\Task_1_Basics\2_2_MauGau\bin\Debug\2_2_MauGau.ex
 C:\Users\Головко\Desktop\Task_1_Basics\2_2_MauGau\bin\Debug\2_2_MauGau.pdb
 C:\Users\Головко\Desktop\Task_1_Basics\2_2_MauGau\obj\Debug\2_2_MauGau.exe
 C:\Users\Головко\Desktop\Task_1_Basics\2_2_MauGau\obj\Debug\2_2_MauGau.pdb
+C:\Users\Головко\CSharpCourse-2016\Golovko\Task_1\2_2_MauGau\bin\Debug\2_2_MauGau.exe.config
+C:\Users\Головко\CSharpCourse-2016\Golovko\Task_1\2_2_MauGau\bin\Debug\2_2_MauGau.exe
+C:\Users\Головко\CSharpCourse-2016\Golovko\Task_1\2_2_MauGau\bin\Debug\2_2_MauGau.pdb
+C:\Users\Головко\CSharpCourse-2016\Golovko\Task_1\2_2_MauGau\obj\Debug\2_2_MauGau.csprojResolveAssemblyReference.cache
+C:\Users\Головко\CSharpCourse-2016\Golovko\Task_1\2_2_MauGau\obj\Debug\2_2_MauGau.exe
+C:\Users\Головко\CSharpCourse-2016\Golovko\Task_1\2_2_MauGau\obj\Debug\2_2_MauGau.pdb

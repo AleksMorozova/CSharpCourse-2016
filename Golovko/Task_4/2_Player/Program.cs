@@ -11,14 +11,12 @@ namespace _2_Player
         static void Main(string[] args)
         {
             Player player = new Player();
-            IPlayable play = player;
-            play.Play();
-            play.Pause();
-            play.Stop();
-            IRecordable record = player;
-            record.Record();
-            record.Pause();
-            record.Stop();
+            player.Play();
+            (player as IPlayable).Pause();
+            (player as IPlayable).Stop();
+            player.Record();
+            (player as IRecordable).Pause();
+            (player as IRecordable).Stop();
             Console.ReadKey();
         }
     }

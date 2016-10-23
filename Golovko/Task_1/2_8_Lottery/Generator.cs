@@ -19,7 +19,7 @@ namespace _2_8_Lottery
         {
             lock(syncLocker)
             {
-                return rnd.Next(min, max);
+                return rnd.Next(min, max + 1);
             }
         }
     }

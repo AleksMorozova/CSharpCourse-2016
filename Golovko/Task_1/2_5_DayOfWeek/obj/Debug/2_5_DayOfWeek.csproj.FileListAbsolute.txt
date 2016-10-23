@@ -8,3 +8,8 @@ C:\Users\Головко\Desktop\Task_1_Basics\2_5_DayOfWeek\obj\Debug\2_5_DayOfW
 C:\Users\Головко\Desktop\Task_1_Basics\2_5_DayOfWeek\obj\Debug\2_5_DayOfWeek.pdb
 C:\Users\Головко\Desktop\Task_1_Basics\2_5_DayOfWeek\bin\Debug\2_5_DayOfWeek.exe
 C:\Users\Головко\Desktop\Task_1_Basics\2_5_DayOfWeek\bin\Debug\2_5_DayOfWeek.pdb
+C:\Users\Головко\CSharpCourse-2016\Golovko\Task_1\2_5_DayOfWeek\bin\Debug\2_5_DayOfWeek.exe.config
+C:\Users\Головко\CSharpCourse-2016\Golovko\Task_1\2_5_DayOfWeek\bin\Debug\2_5_DayOfWeek.exe
+C:\Users\Головко\CSharpCourse-2016\Golovko\Task_1\2_5_DayOfWeek\bin\Debug\2_5_DayOfWeek.pdb
+C:\Users\Головко\CSharpCourse-2016\Golovko\Task_1\2_5_DayOfWeek\obj\Debug\2_5_DayOfWeek.exe
+C:\Users\Головко\CSharpCourse-2016\Golovko\Task_1\2_5_DayOfWeek\obj\Debug\2_5_DayOfWeek.pdb

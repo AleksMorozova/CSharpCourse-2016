@@ -3,3 +3,9 @@ C:\Users\Головко\Desktop\Task_1_Basics\2_7_SimpleNumber\bin\Debug\2_7_Sim
 C:\Users\Головко\Desktop\Task_1_Basics\2_7_SimpleNumber\bin\Debug\2_7_SimpleNumber.pdb
 C:\Users\Головко\Desktop\Task_1_Basics\2_7_SimpleNumber\obj\Debug\2_7_SimpleNumber.exe
 C:\Users\Головко\Desktop\Task_1_Basics\2_7_SimpleNumber\obj\Debug\2_7_SimpleNumber.pdb
+C:\Users\Головко\CSharpCourse-2016\Golovko\Task_1\2_7_SimpleNumber\bin\Debug\2_7_SimpleNumber.exe.config
+C:\Users\Головко\CSharpCourse-2016\Golovko\Task_1\2_7_SimpleNumber\bin\Debug\2_7_SimpleNumber.exe
+C:\Users\Головко\CSharpCourse-2016\Golovko\Task_1\2_7_SimpleNumber\bin\Debug\2_7_SimpleNumber.pdb
+C:\Users\Головко\CSharpCourse-2016\Golovko\Task_1\2_7_SimpleNumber\obj\Debug\2_7_SimpleNumber.csprojResolveAssemblyReference.cache
+C:\Users\Головко\CSharpCourse-2016\Golovko\Task_1\2_7_SimpleNumber\obj\Debug\2_7_SimpleNumber.exe
+C:\Users\Головко\CSharpCourse-2016\Golovko\Task_1\2_7_SimpleNumber\obj\Debug\2_7_SimpleNumber.pdb

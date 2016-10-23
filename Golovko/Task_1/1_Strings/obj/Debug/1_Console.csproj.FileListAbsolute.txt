@@ -9,3 +9,8 @@ C:\Users\Головко\Desktop\Task_1_Basics\1_Strings\bin\Debug\1_Strings.exe
 C:\Users\Головко\Desktop\Task_1_Basics\1_Strings\bin\Debug\1_Strings.pdb
 C:\Users\Головко\Desktop\Task_1_Basics\1_Strings\obj\Debug\1_Strings.exe
 C:\Users\Головко\Desktop\Task_1_Basics\1_Strings\obj\Debug\1_Strings.pdb
+C:\Users\Головко\CSharpCourse-2016\Golovko\Task_1\1_Strings\bin\Debug\1_Strings.exe.config
+C:\Users\Головко\CSharpCourse-2016\Golovko\Task_1\1_Strings\bin\Debug\1_Strings.exe
+C:\Users\Головко\CSharpCourse-2016\Golovko\Task_1\1_Strings\bin\Debug\1_Strings.pdb
+C:\Users\Головко\CSharpCourse-2016\Golovko\Task_1\1_Strings\obj\Debug\1_Strings.exe
+C:\Users\Головко\CSharpCourse-2016\Golovko\Task_1\1_Strings\obj\Debug\1_Strings.pdb

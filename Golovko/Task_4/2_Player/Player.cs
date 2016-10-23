@@ -22,7 +22,7 @@ namespace _2_Player
         }
         public void Play()
         {
-            Console.WriteLine("The playing began");
+            Console.WriteLine("The playing has began");
         }
         void IPlayable.Pause()
         {

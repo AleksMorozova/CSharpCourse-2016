@@ -8,3 +8,9 @@ C:\Users\Головко\Desktop\Task_1_Basics\2_4_GoodVsBad\bin\Debug\2_4_GoodVs
 C:\Users\Головко\Desktop\Task_1_Basics\2_4_GoodVsBad\bin\Debug\2_4_GoodVsBad.pdb
 C:\Users\Головко\Desktop\Task_1_Basics\2_4_GoodVsBad\obj\Debug\2_4_GoodVsBad.exe
 C:\Users\Головко\Desktop\Task_1_Basics\2_4_GoodVsBad\obj\Debug\2_4_GoodVsBad.pdb
+C:\Users\Головко\CSharpCourse-2016\Golovko\Task_1\2_4_GoodVsBad\bin\Debug\2_4_GoodVsBad.exe.config
+C:\Users\Головко\CSharpCourse-2016\Golovko\Task_1\2_4_GoodVsBad\bin\Debug\2_4_GoodVsBad.exe
+C:\Users\Головко\CSharpCourse-2016\Golovko\Task_1\2_4_GoodVsBad\bin\Debug\2_4_GoodVsBad.pdb
+C:\Users\Головко\CSharpCourse-2016\Golovko\Task_1\2_4_GoodVsBad\obj\Debug\2_4_GoodVsBad.csprojResolveAssemblyReference.cache
+C:\Users\Головко\CSharpCourse-2016\Golovko\Task_1\2_4_GoodVsBad\obj\Debug\2_4_GoodVsBad.exe
+C:\Users\Головко\CSharpCourse-2016\Golovko\Task_1\2_4_GoodVsBad\obj\Debug\2_4_GoodVsBad.pdb

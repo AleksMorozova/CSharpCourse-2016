@@ -3,3 +3,6 @@ c:\users\головко\documents\visual studio 2015\Projects\Task_4\1_AbstractH
 c:\users\головко\documents\visual studio 2015\Projects\Task_4\1_AbstractHandler\bin\Debug\1_AbstractHandler.pdb
 c:\users\головко\documents\visual studio 2015\Projects\Task_4\1_AbstractHandler\obj\Debug\1_AbstractHandler.exe
 c:\users\головко\documents\visual studio 2015\Projects\Task_4\1_AbstractHandler\obj\Debug\1_AbstractHandler.pdb
+C:\Users\Головко\CSharpCourse-2016\Golovko\Task_4\1_AbstractHandler\bin\Debug\1_AbstractHandler.exe.config
+C:\Users\Головко\CSharpCourse-2016\Golovko\Task_4\1_AbstractHandler\obj\Debug\1_AbstractHandler.exe
+C:\Users\Головко\CSharpCourse-2016\Golovko\Task_4\1_AbstractHandler\obj\Debug\1_AbstractHandler.pdb

@@ -1,0 +1,6 @@
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\CyclicConstructions\Task2QuantityOfDigits\bin\Debug\Task2QuantityOfDigits.exe.config
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\CyclicConstructions\Task2QuantityOfDigits\bin\Debug\Task2QuantityOfDigits.exe
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\CyclicConstructions\Task2QuantityOfDigits\bin\Debug\Task2QuantityOfDigits.pdb
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\CyclicConstructions\Task2QuantityOfDigits\obj\Debug\Task2QuantityOfDigits.csprojResolveAssemblyReference.cache
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\CyclicConstructions\Task2QuantityOfDigits\obj\Debug\Task2QuantityOfDigits.exe
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\CyclicConstructions\Task2QuantityOfDigits\obj\Debug\Task2QuantityOfDigits.pdb

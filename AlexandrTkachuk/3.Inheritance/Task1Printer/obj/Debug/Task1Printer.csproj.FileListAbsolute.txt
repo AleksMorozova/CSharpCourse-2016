@@ -1,0 +1,6 @@
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\2.Classes\3.Inheritance\Task1Printer\bin\Debug\Task1Printer.exe.config
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\2.Classes\3.Inheritance\Task1Printer\bin\Debug\Task1Printer.exe
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\2.Classes\3.Inheritance\Task1Printer\bin\Debug\Task1Printer.pdb
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\2.Classes\3.Inheritance\Task1Printer\obj\Debug\Task1Printer.csprojResolveAssemblyReference.cache
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\2.Classes\3.Inheritance\Task1Printer\obj\Debug\Task1Printer.exe
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\2.Classes\3.Inheritance\Task1Printer\obj\Debug\Task1Printer.pdb

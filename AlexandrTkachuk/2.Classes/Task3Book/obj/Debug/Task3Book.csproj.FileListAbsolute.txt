@@ -1,0 +1,6 @@
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\2.Classes\2.Classes\Task3Book\bin\Debug\Task3Book.exe.config
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\2.Classes\2.Classes\Task3Book\obj\Debug\Task3Book.csprojResolveAssemblyReference.cache
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\2.Classes\2.Classes\Task3Book\bin\Debug\Task3Book.exe
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\2.Classes\2.Classes\Task3Book\bin\Debug\Task3Book.pdb
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\2.Classes\2.Classes\Task3Book\obj\Debug\Task3Book.exe
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\2.Classes\2.Classes\Task3Book\obj\Debug\Task3Book.pdb

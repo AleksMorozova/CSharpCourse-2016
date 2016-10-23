@@ -1,0 +1,9 @@
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\CyclicConstructions\Task1MultiplicationTable\bin\Debug\Task1MultiplicationTable.exe.config
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\CyclicConstructions\Task1MultiplicationTable\bin\Debug\Task1MultiplicationTable.exe
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\CyclicConstructions\Task1MultiplicationTable\bin\Debug\Task1MultiplicationTable.pdb
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\CyclicConstructions\Task1MultiplicationTable\obj\Debug\Task1MultiplicationTable.csprojResolveAssemblyReference.cache
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\CyclicConstructions\Task1MultiplicationTable\obj\Debug\Task1MultiplicationTable.exe
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\CyclicConstructions\Task1MultiplicationTable\obj\Debug\Task1MultiplicationTable.pdb
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\1\CyclicConstructions\Task1MultiplicationTable\bin\Debug\Task1MultiplicationTable.exe.config
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\1\CyclicConstructions\Task1MultiplicationTable\obj\Debug\Task1MultiplicationTable.exe
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\1\CyclicConstructions\Task1MultiplicationTable\obj\Debug\Task1MultiplicationTable.pdb

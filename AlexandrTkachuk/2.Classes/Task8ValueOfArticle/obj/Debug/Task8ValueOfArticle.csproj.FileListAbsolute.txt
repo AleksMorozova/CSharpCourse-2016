@@ -1,0 +1,9 @@
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\2.Classes\2.Classes\Task8ValueOfArticle\bin\Debug\Task8ValueOfArticle.exe.config
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\2.Classes\2.Classes\Task8ValueOfArticle\bin\Debug\Task8ValueOfArticle.exe
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\2.Classes\2.Classes\Task8ValueOfArticle\bin\Debug\Task8ValueOfArticle.pdb
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\2.Classes\2.Classes\Task8ValueOfArticle\obj\Debug\Task8ValueOfArticle.csprojResolveAssemblyReference.cache
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\2.Classes\2.Classes\Task8ValueOfArticle\obj\Debug\Task8ValueOfArticle.exe
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\2.Classes\2.Classes\Task8ValueOfArticle\obj\Debug\Task8ValueOfArticle.pdb
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\2.Classes\Task8ValueOfArticle\bin\Debug\Task8ValueOfArticle.exe.config
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\2.Classes\Task8ValueOfArticle\obj\Debug\Task8ValueOfArticle.exe
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\2.Classes\Task8ValueOfArticle\obj\Debug\Task8ValueOfArticle.pdb

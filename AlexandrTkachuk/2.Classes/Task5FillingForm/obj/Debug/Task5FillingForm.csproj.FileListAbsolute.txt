@@ -1,0 +1,6 @@
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\2.Classes\2.Classes\Task5FillingForm\bin\Debug\Task5FillingForm.exe.config
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\2.Classes\2.Classes\Task5FillingForm\bin\Debug\Task5FillingForm.exe
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\2.Classes\2.Classes\Task5FillingForm\bin\Debug\Task5FillingForm.pdb
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\2.Classes\2.Classes\Task5FillingForm\obj\Debug\Task5FillingForm.csprojResolveAssemblyReference.cache
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\2.Classes\2.Classes\Task5FillingForm\obj\Debug\Task5FillingForm.exe
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\2.Classes\2.Classes\Task5FillingForm\obj\Debug\Task5FillingForm.pdb

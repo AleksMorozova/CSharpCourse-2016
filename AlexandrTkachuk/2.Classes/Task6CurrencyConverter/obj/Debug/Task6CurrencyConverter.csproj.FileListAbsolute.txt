@@ -1,0 +1,6 @@
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\2.Classes\2.Classes\Task6CurrencyConverter\bin\Debug\Task6CurrencyConverter.exe.config
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\2.Classes\2.Classes\Task6CurrencyConverter\bin\Debug\Task6CurrencyConverter.exe
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\2.Classes\2.Classes\Task6CurrencyConverter\bin\Debug\Task6CurrencyConverter.pdb
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\2.Classes\2.Classes\Task6CurrencyConverter\obj\Debug\Task6CurrencyConverter.exe
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\2.Classes\2.Classes\Task6CurrencyConverter\obj\Debug\Task6CurrencyConverter.pdb
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\2.Classes\2.Classes\Task6CurrencyConverter\obj\Debug\Task6CurrencyConverter.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\2.Classes\2.Classes\Task2Rectangle\bin\Debug\Task2Rectangle.exe.config
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\2.Classes\2.Classes\Task2Rectangle\bin\Debug\Task2Rectangle.exe
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\2.Classes\2.Classes\Task2Rectangle\bin\Debug\Task2Rectangle.pdb
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\2.Classes\2.Classes\Task2Rectangle\obj\Debug\Task2Rectangle.csprojResolveAssemblyReference.cache
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\2.Classes\2.Classes\Task2Rectangle\obj\Debug\Task2Rectangle.exe
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\2.Classes\2.Classes\Task2Rectangle\obj\Debug\Task2Rectangle.pdb

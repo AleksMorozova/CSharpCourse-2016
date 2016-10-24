@@ -4,3 +4,6 @@ c:\users\головко\documents\visual studio 2015\Projects\Task_3\2_ClassRoom
 c:\users\головко\documents\visual studio 2015\Projects\Task_3\2_ClassRoom\obj\Debug\2_ClassRoom.exe
 c:\users\головко\documents\visual studio 2015\Projects\Task_3\2_ClassRoom\obj\Debug\2_ClassRoom.pdb
 c:\users\головко\documents\visual studio 2015\Projects\Task_3\2_ClassRoom\obj\Debug\2_ClassRoom.csprojResolveAssemblyReference.cache
+C:\Users\Головко\CSharpCourse-2016\Golovko\Task_3\2_ClassRoom\bin\Debug\2_ClassRoom.exe.config
+C:\Users\Головко\CSharpCourse-2016\Golovko\Task_3\2_ClassRoom\obj\Debug\2_ClassRoom.exe
+C:\Users\Головко\CSharpCourse-2016\Golovko\Task_3\2_ClassRoom\obj\Debug\2_ClassRoom.pdb

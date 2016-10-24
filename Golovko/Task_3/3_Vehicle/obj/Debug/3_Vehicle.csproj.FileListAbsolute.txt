@@ -4,3 +4,6 @@ c:\users\головко\documents\visual studio 2015\Projects\Task_3\3_Vehicle\b
 c:\users\головко\documents\visual studio 2015\Projects\Task_3\3_Vehicle\obj\Debug\3_Vehicle.exe
 c:\users\головко\documents\visual studio 2015\Projects\Task_3\3_Vehicle\obj\Debug\3_Vehicle.pdb
 c:\users\головко\documents\visual studio 2015\Projects\Task_3\3_Vehicle\obj\Debug\3_Vehicle.csprojResolveAssemblyReference.cache
+C:\Users\Головко\CSharpCourse-2016\Golovko\Task_3\3_Vehicle\bin\Debug\3_Vehicle.exe.config
+C:\Users\Головко\CSharpCourse-2016\Golovko\Task_3\3_Vehicle\obj\Debug\3_Vehicle.exe
+C:\Users\Головко\CSharpCourse-2016\Golovko\Task_3\3_Vehicle\obj\Debug\3_Vehicle.pdb

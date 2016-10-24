@@ -1,0 +1,6 @@
+c:\users\головко\documents\visual studio 2015\Projects\Task_5\4_StringExtension\bin\Debug\4_StringExtension.exe.config
+c:\users\головко\documents\visual studio 2015\Projects\Task_5\4_StringExtension\bin\Debug\4_StringExtension.exe
+c:\users\головко\documents\visual studio 2015\Projects\Task_5\4_StringExtension\bin\Debug\4_StringExtension.pdb
+c:\users\головко\documents\visual studio 2015\Projects\Task_5\4_StringExtension\obj\Debug\4_StringExtension.csprojResolveAssemblyReference.cache
+c:\users\головко\documents\visual studio 2015\Projects\Task_5\4_StringExtension\obj\Debug\4_StringExtension.exe
+c:\users\головко\documents\visual studio 2015\Projects\Task_5\4_StringExtension\obj\Debug\4_StringExtension.pdb

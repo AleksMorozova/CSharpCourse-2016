@@ -11,7 +11,7 @@ namespace _2_ArraySortASC
         public static int[] SortAsc(this int[] array)
         {
             int tmp;
-            for (int i = 0; i < array.Length; i++)
+            for (int i = 0; i < array.Length - 1; i++)
             {
                 for (int j = i + 1; j < array.Length; j++)
                 {

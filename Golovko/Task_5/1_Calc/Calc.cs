@@ -43,7 +43,7 @@ namespace _1_Calc
             }
             catch (DivideByZeroException e)
             {
-                result = double.PositiveInfinity;
+                result = a > 0 ? double.PositiveInfinity : double.NegativeInfinity;
                 Console.WriteLine(e.Message);
 
             }
@@ -54,8 +54,23 @@ namespace _1_Calc
             return a / 100;
         }
         public static double Reciproc(double a)
-        {            
-            return 1 / a;
+        {
+            double result;
+            try
+            {
+                if (a == 0)
+                {
+                    throw new DivideByZeroException();
+                }
+                result = 1 / a;
+            }
+            catch (DivideByZeroException e)
+            {
+                result = a > 0 ? double.PositiveInfinity : double.NegativeInfinity;
+                Console.WriteLine(e.Message);
+
+            }
+            return result;
         }
         public static double Sqrt(double x)
         {
@@ -87,6 +102,10 @@ namespace _1_Calc
                 return 1;
             }
             return a * Pow(a, --b);
+        }
+        public static double Abs(double a)
+        {
+            return a > 0 ? a : -a;
         }
     }
 }

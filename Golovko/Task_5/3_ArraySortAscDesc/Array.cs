@@ -11,7 +11,7 @@ namespace _3_ArraySortAscDesc
         public static int[] Sort(this int[] array, SortType type)
         {
             int tmp;
-            for (int i = 0; i < array.Length; i++)
+            for (int i = 0; i < array.Length - 1; i++)
             {
                 for (int j = i + 1; j < array.Length; j++)
                 {

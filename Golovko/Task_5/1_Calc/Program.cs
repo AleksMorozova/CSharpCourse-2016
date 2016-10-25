@@ -19,6 +19,7 @@ namespace _1_Calc
             Console.WriteLine(Calc.Sum(199, 1));
             Console.WriteLine(Calc.Sqrt(625));
             Console.WriteLine(Calc.Pow(2, 8));
+            Console.WriteLine(Calc.Abs(-50));
             Console.ReadKey();
         }
     }

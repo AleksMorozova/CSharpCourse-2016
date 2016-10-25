@@ -9,4 +9,3 @@ C:\Users\Головко\CSharpCourse-2016\Golovko\Task_5\3_ArraySortAscDesc\bin\
 C:\Users\Головко\CSharpCourse-2016\Golovko\Task_5\3_ArraySortAscDesc\bin\Debug\3_ArraySortAscDesc.pdb
 C:\Users\Головко\CSharpCourse-2016\Golovko\Task_5\3_ArraySortAscDesc\obj\Debug\3_ArraySortAscDesc.exe
 C:\Users\Головко\CSharpCourse-2016\Golovko\Task_5\3_ArraySortAscDesc\obj\Debug\3_ArraySortAscDesc.pdb
-C:\Users\Головко\CSharpCourse-2016\Golovko\Task_5\3_ArraySortAscDesc\obj\Debug\3_ArraySortAscDesc.csprojResolveAssemblyReference.cache

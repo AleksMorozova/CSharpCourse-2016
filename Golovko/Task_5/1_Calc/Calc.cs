@@ -55,22 +55,7 @@ namespace _1_Calc
         }
         public static double Reciproc(double a)
         {
-            double result;
-            try
-            {
-                if (a == 0)
-                {
-                    throw new DivideByZeroException();
-                }
-                result = 1 / a;
-            }
-            catch (DivideByZeroException e)
-            {
-                result = a > 0 ? double.PositiveInfinity : double.NegativeInfinity;
-                Console.WriteLine(e.Message);
-
-            }
-            return result;
+            return Quotient(1, a);
         }
         public static double Sqrt(double x)
         {
@@ -102,6 +87,10 @@ namespace _1_Calc
                 return 1;
             }
             return a * Pow(a, --b);
+        }
+        public static double Pow2(double a)
+        {
+            return Pow(a, 2);
         }
         public static double Abs(double a)
         {

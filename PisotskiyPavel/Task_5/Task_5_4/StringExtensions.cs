@@ -61,6 +61,10 @@ namespace Task_5_4
                     {
                         i += newValue.Length - oldValue.Length;
                     }
+                    else if(newValue.Length < oldValue.Length)
+                    {
+                        i -= oldValue.Length - newValue.Length;
+                    }
                 }
 
             }

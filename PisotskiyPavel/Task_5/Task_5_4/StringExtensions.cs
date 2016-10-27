@@ -57,6 +57,10 @@ namespace Task_5_4
                     string start = value.Substring(0, i);
                     string end = value.Substring((oldValue.Length + i), value.Length - start.Length - oldValue.Length);
                     value = start + newValue + end;
+                    if(newValue.Length > oldValue.Length)
+                    {
+                        i += newValue.Length - oldValue.Length;
+                    }
                 }
 
             }

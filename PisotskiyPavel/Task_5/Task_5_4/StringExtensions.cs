@@ -32,7 +32,7 @@ namespace Task_5_4
             for (int i = 0; i < str.Length - value.Length; i++)
             {
                 string substring = Substring(str, i, value.Length);
-                if (substring.Contains(value))
+                if (substring.Equals(value))
                 {
                     index = i;
                     break;
@@ -52,7 +52,7 @@ namespace Task_5_4
             {
                 string substring = Substring(value, i, oldValue.Length);
 
-                if (substring.Contains(oldValue))
+                if (substring.Equals(oldValue))
                 {
                     string start = value.Substring(0, i);
                     string end = value.Substring((oldValue.Length + i), value.Length - start.Length - oldValue.Length);
@@ -64,6 +64,9 @@ namespace Task_5_4
                     else if(newValue.Length < oldValue.Length)
                     {
                         i -= oldValue.Length - newValue.Length;
+                    }else
+                    {
+                        i += newValue.Length;
                     }
                 }
 

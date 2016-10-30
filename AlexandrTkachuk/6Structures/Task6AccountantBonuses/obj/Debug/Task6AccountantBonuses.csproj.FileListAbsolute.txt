@@ -1,0 +1,6 @@
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\6Structures\Task6AccountantBonuses\bin\Debug\Task6AccountantBonuses.exe.config
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\6Structures\Task6AccountantBonuses\bin\Debug\Task6AccountantBonuses.exe
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\6Structures\Task6AccountantBonuses\bin\Debug\Task6AccountantBonuses.pdb
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\6Structures\Task6AccountantBonuses\obj\Debug\Task6AccountantBonuses.csprojResolveAssemblyReference.cache
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\6Structures\Task6AccountantBonuses\obj\Debug\Task6AccountantBonuses.exe
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\6Structures\Task6AccountantBonuses\obj\Debug\Task6AccountantBonuses.pdb

@@ -1,0 +1,6 @@
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\5.Static\Task2SortExtension\bin\Debug\Task2SortExtension.exe.config
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\5.Static\Task2SortExtension\bin\Debug\Task2SortExtension.exe
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\5.Static\Task2SortExtension\bin\Debug\Task2SortExtension.pdb
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\5.Static\Task2SortExtension\obj\Debug\Task2SortExtension.csprojResolveAssemblyReference.cache
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\5.Static\Task2SortExtension\obj\Debug\Task2SortExtension.exe
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\5.Static\Task2SortExtension\obj\Debug\Task2SortExtension.pdb

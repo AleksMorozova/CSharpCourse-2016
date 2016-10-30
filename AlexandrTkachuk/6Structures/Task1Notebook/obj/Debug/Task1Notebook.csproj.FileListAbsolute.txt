@@ -1,0 +1,6 @@
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\6Structures\Task1Notebook\bin\Debug\Task1Notebook.exe.config
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\6Structures\Task1Notebook\obj\Debug\Task1Notebook.csprojResolveAssemblyReference.cache
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\6Structures\Task1Notebook\bin\Debug\Task1Notebook.exe
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\6Structures\Task1Notebook\bin\Debug\Task1Notebook.pdb
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\6Structures\Task1Notebook\obj\Debug\Task1Notebook.exe
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\6Structures\Task1Notebook\obj\Debug\Task1Notebook.pdb

@@ -1,0 +1,12 @@
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\2.Classes\4.Abstractions\Task1DocumentsTypes\bin\Debug\Task1DocumentsTypes.exe.config
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\2.Classes\4.Abstractions\Task1DocumentsTypes\obj\Debug\Task1DocumentsTypes.csprojResolveAssemblyReference.cache
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\2.Classes\4.Abstractions\Task1DocumentsTypes\bin\Debug\Task1DocumentsTypes.exe
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\2.Classes\4.Abstractions\Task1DocumentsTypes\bin\Debug\Task1DocumentsTypes.pdb
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\2.Classes\4.Abstractions\Task1DocumentsTypes\obj\Debug\Task1DocumentsTypes.exe
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\2.Classes\4.Abstractions\Task1DocumentsTypes\obj\Debug\Task1DocumentsTypes.pdb
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\4.Abstractions\Task1DocumentsTypes\bin\Debug\Task1DocumentsTypes.exe.config
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\4.Abstractions\Task1DocumentsTypes\obj\Debug\Task1DocumentsTypes.exe
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\4.Abstractions\Task1DocumentsTypes\obj\Debug\Task1DocumentsTypes.pdb
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\4.Abstractions\Task1DocumentsTypes\bin\Debug\Task1DocumentsTypes.exe
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\4.Abstractions\Task1DocumentsTypes\bin\Debug\Task1DocumentsTypes.pdb
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\4.Abstractions\Task1DocumentsTypes\obj\Debug\Task1DocumentsTypes.csprojResolveAssemblyReference.cache

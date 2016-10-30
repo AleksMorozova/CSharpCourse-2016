@@ -1,0 +1,6 @@
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\2.Classes\4.Abstractions\Task2Player\bin\Debug\Task2Player.exe.config
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\2.Classes\4.Abstractions\Task2Player\obj\Debug\Task2Player.csprojResolveAssemblyReference.cache
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\2.Classes\4.Abstractions\Task2Player\bin\Debug\Task2Player.exe
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\2.Classes\4.Abstractions\Task2Player\bin\Debug\Task2Player.pdb
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\2.Classes\4.Abstractions\Task2Player\obj\Debug\Task2Player.exe
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\2.Classes\4.Abstractions\Task2Player\obj\Debug\Task2Player.pdb

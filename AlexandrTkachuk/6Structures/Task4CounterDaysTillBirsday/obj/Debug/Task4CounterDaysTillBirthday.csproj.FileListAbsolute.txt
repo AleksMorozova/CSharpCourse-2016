@@ -1,0 +1,6 @@
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\6Structures\Task4CounterDaysTillBirsday\bin\Debug\Task4CounterDaysTillBirsday.exe.config
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\6Structures\Task4CounterDaysTillBirsday\bin\Debug\Task4CounterDaysTillBirsday.exe
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\6Structures\Task4CounterDaysTillBirsday\bin\Debug\Task4CounterDaysTillBirsday.pdb
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\6Structures\Task4CounterDaysTillBirsday\obj\Debug\Task4CounterDaysTillBirsday.exe
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\6Structures\Task4CounterDaysTillBirsday\obj\Debug\Task4CounterDaysTillBirsday.pdb
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\6Structures\Task4CounterDaysTillBirsday\obj\Debug\Task4CounterDaysTillBirthday.csprojResolveAssemblyReference.cache

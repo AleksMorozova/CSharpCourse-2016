@@ -1,0 +1,5 @@
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\5.Static\Task3SortExtensionWithSortingOrder\bin\Debug\Task3SortExtensionWithSortingOrder.exe.config
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\5.Static\Task3SortExtensionWithSortingOrder\bin\Debug\Task3SortExtensionWithSortingOrder.exe
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\5.Static\Task3SortExtensionWithSortingOrder\bin\Debug\Task3SortExtensionWithSortingOrder.pdb
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\5.Static\Task3SortExtensionWithSortingOrder\obj\Debug\Task3SortExtensionWithSortingOrder.exe
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\5.Static\Task3SortExtensionWithSortingOrder\obj\Debug\Task3SortExtensionWithSortingOrder.pdb

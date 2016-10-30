@@ -1,0 +1,6 @@
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\6Structures\Task5ColorPrint\bin\Debug\Task5ColorPrint.exe.config
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\6Structures\Task5ColorPrint\bin\Debug\Task5ColorPrint.exe
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\6Structures\Task5ColorPrint\bin\Debug\Task5ColorPrint.pdb
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\6Structures\Task5ColorPrint\obj\Debug\Task5ColorPrint.csprojResolveAssemblyReference.cache
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\6Structures\Task5ColorPrint\obj\Debug\Task5ColorPrint.exe
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\6Structures\Task5ColorPrint\obj\Debug\Task5ColorPrint.pdb

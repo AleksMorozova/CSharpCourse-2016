@@ -1,0 +1,5 @@
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\6Structures\Task3MyClassAndMyStruct\bin\Debug\Task3MyClassAndMyStruct.exe.config
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\6Structures\Task3MyClassAndMyStruct\bin\Debug\Task3MyClassAndMyStruct.exe
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\6Structures\Task3MyClassAndMyStruct\bin\Debug\Task3MyClassAndMyStruct.pdb
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\6Structures\Task3MyClassAndMyStruct\obj\Debug\Task3MyClassAndMyStruct.exe
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\6Structures\Task3MyClassAndMyStruct\obj\Debug\Task3MyClassAndMyStruct.pdb

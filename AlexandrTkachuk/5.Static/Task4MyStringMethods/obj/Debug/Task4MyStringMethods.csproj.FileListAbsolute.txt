@@ -1,0 +1,6 @@
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\5.Static\Task4MyStringMethods\bin\Debug\Task4MyStringMethods.exe.config
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\5.Static\Task4MyStringMethods\bin\Debug\Task4MyStringMethods.exe
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\5.Static\Task4MyStringMethods\bin\Debug\Task4MyStringMethods.pdb
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\5.Static\Task4MyStringMethods\obj\Debug\Task4MyStringMethods.csprojResolveAssemblyReference.cache
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\5.Static\Task4MyStringMethods\obj\Debug\Task4MyStringMethods.exe
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\5.Static\Task4MyStringMethods\obj\Debug\Task4MyStringMethods.pdb

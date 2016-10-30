@@ -1,0 +1,6 @@
+c:\users\svezho\documents\visual studio 2015\Projects\Classes_3_Book\Classes_3_Book\bin\Debug\Classes_3_Book.exe.config
+c:\users\svezho\documents\visual studio 2015\Projects\Classes_3_Book\Classes_3_Book\obj\Debug\Classes_3_Book.csprojResolveAssemblyReference.cache
+c:\users\svezho\documents\visual studio 2015\Projects\Classes_3_Book\Classes_3_Book\bin\Debug\Classes_3_Book.exe
+c:\users\svezho\documents\visual studio 2015\Projects\Classes_3_Book\Classes_3_Book\bin\Debug\Classes_3_Book.pdb
+c:\users\svezho\documents\visual studio 2015\Projects\Classes_3_Book\Classes_3_Book\obj\Debug\Classes_3_Book.exe
+c:\users\svezho\documents\visual studio 2015\Projects\Classes_3_Book\Classes_3_Book\obj\Debug\Classes_3_Book.pdb

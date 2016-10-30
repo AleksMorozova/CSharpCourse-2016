@@ -1,0 +1,5 @@
+c:\users\svezho\documents\visual studio 2015\Projects\Static_4_MyMethods\Static_4_MyMethods\bin\Debug\Static_4_MyMethods.exe.config
+c:\users\svezho\documents\visual studio 2015\Projects\Static_4_MyMethods\Static_4_MyMethods\bin\Debug\Static_4_MyMethods.exe
+c:\users\svezho\documents\visual studio 2015\Projects\Static_4_MyMethods\Static_4_MyMethods\bin\Debug\Static_4_MyMethods.pdb
+c:\users\svezho\documents\visual studio 2015\Projects\Static_4_MyMethods\Static_4_MyMethods\obj\Debug\Static_4_MyMethods.exe
+c:\users\svezho\documents\visual studio 2015\Projects\Static_4_MyMethods\Static_4_MyMethods\obj\Debug\Static_4_MyMethods.pdb

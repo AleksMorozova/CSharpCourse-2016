@@ -1,0 +1,6 @@
+c:\users\svezho\documents\visual studio 2015\Projects\Classes_2_Rectangle\Classes_2_Rectangle\bin\Debug\Classes_2_Rectangle.exe.config
+c:\users\svezho\documents\visual studio 2015\Projects\Classes_2_Rectangle\Classes_2_Rectangle\bin\Debug\Classes_2_Rectangle.exe
+c:\users\svezho\documents\visual studio 2015\Projects\Classes_2_Rectangle\Classes_2_Rectangle\bin\Debug\Classes_2_Rectangle.pdb
+c:\users\svezho\documents\visual studio 2015\Projects\Classes_2_Rectangle\Classes_2_Rectangle\obj\Debug\Classes_2_Rectangle.csprojResolveAssemblyReference.cache
+c:\users\svezho\documents\visual studio 2015\Projects\Classes_2_Rectangle\Classes_2_Rectangle\obj\Debug\Classes_2_Rectangle.exe
+c:\users\svezho\documents\visual studio 2015\Projects\Classes_2_Rectangle\Classes_2_Rectangle\obj\Debug\Classes_2_Rectangle.pdb

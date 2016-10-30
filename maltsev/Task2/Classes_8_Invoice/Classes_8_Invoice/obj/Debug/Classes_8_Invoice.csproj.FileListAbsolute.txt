@@ -1,0 +1,6 @@
+c:\users\svezho\documents\visual studio 2015\Projects\Classes_8_Invoice\Classes_8_Invoice\bin\Debug\Classes_8_Invoice.exe.config
+c:\users\svezho\documents\visual studio 2015\Projects\Classes_8_Invoice\Classes_8_Invoice\obj\Debug\Classes_8_Invoice.exe
+c:\users\svezho\documents\visual studio 2015\Projects\Classes_8_Invoice\Classes_8_Invoice\obj\Debug\Classes_8_Invoice.pdb
+c:\users\svezho\documents\visual studio 2015\Projects\Classes_8_Invoice\Classes_8_Invoice\obj\Debug\Classes_8_Invoice.csprojResolveAssemblyReference.cache
+c:\users\svezho\documents\visual studio 2015\Projects\Classes_8_Invoice\Classes_8_Invoice\bin\Debug\Classes_8_Invoice.exe
+c:\users\svezho\documents\visual studio 2015\Projects\Classes_8_Invoice\Classes_8_Invoice\bin\Debug\Classes_8_Invoice.pdb

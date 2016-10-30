@@ -1,0 +1,5 @@
+c:\users\svezho\documents\visual studio 2015\Projects\Struct_3_MyClass\Struct_3_MyClass\bin\Debug\Struct_3_MyClass.exe.config
+c:\users\svezho\documents\visual studio 2015\Projects\Struct_3_MyClass\Struct_3_MyClass\bin\Debug\Struct_3_MyClass.exe
+c:\users\svezho\documents\visual studio 2015\Projects\Struct_3_MyClass\Struct_3_MyClass\bin\Debug\Struct_3_MyClass.pdb
+c:\users\svezho\documents\visual studio 2015\Projects\Struct_3_MyClass\Struct_3_MyClass\obj\Debug\Struct_3_MyClass.exe
+c:\users\svezho\documents\visual studio 2015\Projects\Struct_3_MyClass\Struct_3_MyClass\obj\Debug\Struct_3_MyClass.pdb

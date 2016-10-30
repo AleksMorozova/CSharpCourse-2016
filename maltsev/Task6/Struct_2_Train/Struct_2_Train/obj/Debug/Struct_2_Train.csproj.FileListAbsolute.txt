@@ -1,0 +1,6 @@
+c:\users\svezho\documents\visual studio 2015\Projects\Struct_2_Train\Struct_2_Train\bin\Debug\Struct_2_Train.exe.config
+c:\users\svezho\documents\visual studio 2015\Projects\Struct_2_Train\Struct_2_Train\bin\Debug\Struct_2_Train.exe
+c:\users\svezho\documents\visual studio 2015\Projects\Struct_2_Train\Struct_2_Train\bin\Debug\Struct_2_Train.pdb
+c:\users\svezho\documents\visual studio 2015\Projects\Struct_2_Train\Struct_2_Train\obj\Debug\Struct_2_Train.csprojResolveAssemblyReference.cache
+c:\users\svezho\documents\visual studio 2015\Projects\Struct_2_Train\Struct_2_Train\obj\Debug\Struct_2_Train.exe
+c:\users\svezho\documents\visual studio 2015\Projects\Struct_2_Train\Struct_2_Train\obj\Debug\Struct_2_Train.pdb

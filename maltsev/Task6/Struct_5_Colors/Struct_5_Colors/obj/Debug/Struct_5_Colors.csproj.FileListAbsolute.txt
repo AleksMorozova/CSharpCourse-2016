@@ -1,0 +1,6 @@
+c:\users\svezho\documents\visual studio 2015\Projects\Struct_5_Colors\Struct_5_Colors\bin\Debug\Struct_5_Colors.exe.config
+c:\users\svezho\documents\visual studio 2015\Projects\Struct_5_Colors\Struct_5_Colors\obj\Debug\Struct_5_Colors.csprojResolveAssemblyReference.cache
+c:\users\svezho\documents\visual studio 2015\Projects\Struct_5_Colors\Struct_5_Colors\bin\Debug\Struct_5_Colors.exe
+c:\users\svezho\documents\visual studio 2015\Projects\Struct_5_Colors\Struct_5_Colors\bin\Debug\Struct_5_Colors.pdb
+c:\users\svezho\documents\visual studio 2015\Projects\Struct_5_Colors\Struct_5_Colors\obj\Debug\Struct_5_Colors.exe
+c:\users\svezho\documents\visual studio 2015\Projects\Struct_5_Colors\Struct_5_Colors\obj\Debug\Struct_5_Colors.pdb

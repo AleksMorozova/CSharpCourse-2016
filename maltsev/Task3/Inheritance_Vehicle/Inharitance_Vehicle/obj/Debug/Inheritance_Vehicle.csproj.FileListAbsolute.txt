@@ -1,0 +1,5 @@
+C:\Users\svezho\Documents\Visual Studio 2015\Projects\Inheritance_Vehicle\Inharitance_Vehicle\bin\Debug\Inharitance_Vehicle.exe.config
+C:\Users\svezho\Documents\Visual Studio 2015\Projects\Inheritance_Vehicle\Inharitance_Vehicle\obj\Debug\Inharitance_Vehicle.exe
+C:\Users\svezho\Documents\Visual Studio 2015\Projects\Inheritance_Vehicle\Inharitance_Vehicle\obj\Debug\Inharitance_Vehicle.pdb
+C:\Users\svezho\Documents\Visual Studio 2015\Projects\Inheritance_Vehicle\Inharitance_Vehicle\bin\Debug\Inharitance_Vehicle.exe
+C:\Users\svezho\Documents\Visual Studio 2015\Projects\Inheritance_Vehicle\Inharitance_Vehicle\bin\Debug\Inharitance_Vehicle.pdb

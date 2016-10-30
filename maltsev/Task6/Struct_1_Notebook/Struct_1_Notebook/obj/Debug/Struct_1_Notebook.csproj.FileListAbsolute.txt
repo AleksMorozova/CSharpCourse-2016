@@ -1,0 +1,6 @@
+c:\users\svezho\documents\visual studio 2015\Projects\Struct_1_Notebook\Struct_1_Notebook\bin\Debug\Struct_1_Notebook.exe.config
+c:\users\svezho\documents\visual studio 2015\Projects\Struct_1_Notebook\Struct_1_Notebook\bin\Debug\Struct_1_Notebook.exe
+c:\users\svezho\documents\visual studio 2015\Projects\Struct_1_Notebook\Struct_1_Notebook\bin\Debug\Struct_1_Notebook.pdb
+c:\users\svezho\documents\visual studio 2015\Projects\Struct_1_Notebook\Struct_1_Notebook\obj\Debug\Struct_1_Notebook.csprojResolveAssemblyReference.cache
+c:\users\svezho\documents\visual studio 2015\Projects\Struct_1_Notebook\Struct_1_Notebook\obj\Debug\Struct_1_Notebook.exe
+c:\users\svezho\documents\visual studio 2015\Projects\Struct_1_Notebook\Struct_1_Notebook\obj\Debug\Struct_1_Notebook.pdb

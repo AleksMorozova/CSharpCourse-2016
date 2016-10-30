@@ -1,0 +1,6 @@
+c:\users\svezho\documents\visual studio 2015\Projects\Classes_4_Point\Classes_4_Point\bin\Debug\Classes_4_Point.exe.config
+c:\users\svezho\documents\visual studio 2015\Projects\Classes_4_Point\Classes_4_Point\bin\Debug\Classes_4_Point.exe
+c:\users\svezho\documents\visual studio 2015\Projects\Classes_4_Point\Classes_4_Point\bin\Debug\Classes_4_Point.pdb
+c:\users\svezho\documents\visual studio 2015\Projects\Classes_4_Point\Classes_4_Point\obj\Debug\Classes_4_Point.csprojResolveAssemblyReference.cache
+c:\users\svezho\documents\visual studio 2015\Projects\Classes_4_Point\Classes_4_Point\obj\Debug\Classes_4_Point.exe
+c:\users\svezho\documents\visual studio 2015\Projects\Classes_4_Point\Classes_4_Point\obj\Debug\Classes_4_Point.pdb

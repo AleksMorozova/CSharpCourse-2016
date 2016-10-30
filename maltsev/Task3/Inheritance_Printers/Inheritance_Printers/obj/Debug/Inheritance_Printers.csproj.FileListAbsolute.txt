@@ -1,0 +1,6 @@
+c:\users\svezho\documents\visual studio 2015\Projects\Inheritance_Printers\Inheritance_Printers\bin\Debug\Inheritance_Printers.exe.config
+c:\users\svezho\documents\visual studio 2015\Projects\Inheritance_Printers\Inheritance_Printers\bin\Debug\Inheritance_Printers.exe
+c:\users\svezho\documents\visual studio 2015\Projects\Inheritance_Printers\Inheritance_Printers\bin\Debug\Inheritance_Printers.pdb
+c:\users\svezho\documents\visual studio 2015\Projects\Inheritance_Printers\Inheritance_Printers\obj\Debug\Inheritance_Printers.csprojResolveAssemblyReference.cache
+c:\users\svezho\documents\visual studio 2015\Projects\Inheritance_Printers\Inheritance_Printers\obj\Debug\Inheritance_Printers.exe
+c:\users\svezho\documents\visual studio 2015\Projects\Inheritance_Printers\Inheritance_Printers\obj\Debug\Inheritance_Printers.pdb

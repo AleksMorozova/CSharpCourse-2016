@@ -1,0 +1,6 @@
+c:\users\svezho\documents\visual studio 2015\Projects\Classes_6_Converter\Classes_6_Converter\bin\Debug\Classes_6_Converter.exe.config
+c:\users\svezho\documents\visual studio 2015\Projects\Classes_6_Converter\Classes_6_Converter\bin\Debug\Classes_6_Converter.exe
+c:\users\svezho\documents\visual studio 2015\Projects\Classes_6_Converter\Classes_6_Converter\bin\Debug\Classes_6_Converter.pdb
+c:\users\svezho\documents\visual studio 2015\Projects\Classes_6_Converter\Classes_6_Converter\obj\Debug\Classes_6_Converter.csprojResolveAssemblyReference.cache
+c:\users\svezho\documents\visual studio 2015\Projects\Classes_6_Converter\Classes_6_Converter\obj\Debug\Classes_6_Converter.exe
+c:\users\svezho\documents\visual studio 2015\Projects\Classes_6_Converter\Classes_6_Converter\obj\Debug\Classes_6_Converter.pdb

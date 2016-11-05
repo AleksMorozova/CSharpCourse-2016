@@ -1,0 +1,5 @@
+c:\users\головко\documents\visual studio 2015\Projects\7_Exceptions\7_Exceptions\bin\Debug\7_Exceptions.exe.config
+c:\users\головко\documents\visual studio 2015\Projects\7_Exceptions\7_Exceptions\bin\Debug\7_Exceptions.exe
+c:\users\головко\documents\visual studio 2015\Projects\7_Exceptions\7_Exceptions\bin\Debug\7_Exceptions.pdb
+c:\users\головко\documents\visual studio 2015\Projects\7_Exceptions\7_Exceptions\obj\Debug\7_Exceptions.exe
+c:\users\головко\documents\visual studio 2015\Projects\7_Exceptions\7_Exceptions\obj\Debug\7_Exceptions.pdb

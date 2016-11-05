@@ -1,0 +1,6 @@
+c:\users\головко\documents\visual studio 2015\Projects\Task_6\5_Printer\bin\Debug\5_Printer.exe.config
+c:\users\головко\documents\visual studio 2015\Projects\Task_6\5_Printer\bin\Debug\5_Printer.exe
+c:\users\головко\documents\visual studio 2015\Projects\Task_6\5_Printer\bin\Debug\5_Printer.pdb
+c:\users\головко\documents\visual studio 2015\Projects\Task_6\5_Printer\obj\Debug\5_Printer.csprojResolveAssemblyReference.cache
+c:\users\головко\documents\visual studio 2015\Projects\Task_6\5_Printer\obj\Debug\5_Printer.exe
+c:\users\головко\documents\visual studio 2015\Projects\Task_6\5_Printer\obj\Debug\5_Printer.pdb

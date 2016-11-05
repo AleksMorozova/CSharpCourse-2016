@@ -1,0 +1,6 @@
+C:\Users\Головко\Documents\Visual Studio 2015\Projects\Task_6\6_Accauntant\bin\Debug\6_Accauntant.exe.config
+C:\Users\Головко\Documents\Visual Studio 2015\Projects\Task_6\6_Accauntant\bin\Debug\6_Accauntant.exe
+C:\Users\Головко\Documents\Visual Studio 2015\Projects\Task_6\6_Accauntant\bin\Debug\6_Accauntant.pdb
+C:\Users\Головко\Documents\Visual Studio 2015\Projects\Task_6\6_Accauntant\obj\Debug\6_Accauntant.csprojResolveAssemblyReference.cache
+C:\Users\Головко\Documents\Visual Studio 2015\Projects\Task_6\6_Accauntant\obj\Debug\6_Accauntant.exe
+C:\Users\Головко\Documents\Visual Studio 2015\Projects\Task_6\6_Accauntant\obj\Debug\6_Accauntant.pdb

@@ -1,0 +1,6 @@
+c:\users\головко\documents\visual studio 2015\Projects\Task_6\1_Notebook\bin\Debug\1_Notebook.exe.config
+c:\users\головко\documents\visual studio 2015\Projects\Task_6\1_Notebook\bin\Debug\1_Notebook.exe
+c:\users\головко\documents\visual studio 2015\Projects\Task_6\1_Notebook\bin\Debug\1_Notebook.pdb
+c:\users\головко\documents\visual studio 2015\Projects\Task_6\1_Notebook\obj\Debug\1_Notebook.exe
+c:\users\головко\documents\visual studio 2015\Projects\Task_6\1_Notebook\obj\Debug\1_Notebook.pdb
+c:\users\головко\documents\visual studio 2015\Projects\Task_6\1_Notebook\obj\Debug\1_Notebook.csprojResolveAssemblyReference.cache

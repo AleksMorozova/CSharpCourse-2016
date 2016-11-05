@@ -3,3 +3,6 @@ c:\users\головко\documents\visual studio 2015\Projects\Task_3\4_DocumentW
 c:\users\головко\documents\visual studio 2015\Projects\Task_3\4_DocumentWorker\bin\Debug\4_DocumentWorker.pdb
 c:\users\головко\documents\visual studio 2015\Projects\Task_3\4_DocumentWorker\obj\Debug\4_DocumentWorker.exe
 c:\users\головко\documents\visual studio 2015\Projects\Task_3\4_DocumentWorker\obj\Debug\4_DocumentWorker.pdb
+C:\Users\Головко\CSharpCourse-2016\Golovko\Task_3\4_DocumentWorker\bin\Debug\4_DocumentWorker.exe.config
+C:\Users\Головко\CSharpCourse-2016\Golovko\Task_3\4_DocumentWorker\obj\Debug\4_DocumentWorker.exe
+C:\Users\Головко\CSharpCourse-2016\Golovko\Task_3\4_DocumentWorker\obj\Debug\4_DocumentWorker.pdb

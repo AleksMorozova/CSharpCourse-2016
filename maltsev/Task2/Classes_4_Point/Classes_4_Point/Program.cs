@@ -26,6 +26,7 @@ namespace Classes_4_Point
     class Figure
     {
         private string name;
+        private Point[] points;
 
         private double Perimeter { get; set; }
         public string Name { get { return name; } }
@@ -33,42 +34,35 @@ namespace Classes_4_Point
         public Figure(Point A, Point B, Point C)
         {
             name = "Triangle";
-            double[] sides = new double[5];
-            sides[0] = LengthSide(A, B);
-            sides[1] = LengthSide(B, C);
-            sides[2] = LengthSide(C, A);
-            for (int i = 0; i < 3; i++)
-                Perimeter = Perimeter + sides[i];
+            points = new Point[]{ A, B, C };
+            PerimeterCalculator();
         }
         public Figure(Point A, Point B, Point C, Point D)
         {
             name = "Quadrangle";
-            
-            double[] sides = new double[4];
-            sides[0] = LengthSide(A, B);
-            sides[1] = LengthSide(B, C);
-            sides[2] = LengthSide(C, D);
-            sides[3] = LengthSide(A, D);
-            for (int i = 0; i < 4; i++)
-                Perimeter = Perimeter + sides[i];
+            points = new Point[] { A, B, C, D};
+            PerimeterCalculator();
         }
         public Figure(Point A, Point B, Point C, Point D, Point E)
         {
             name = "Pentagon";
-            double[] sides = new double[5];
-            sides[0] = LengthSide(A, B);
-            sides[1] = LengthSide(B, C);
-            sides[2] = LengthSide(C, D);
-            sides[3] = LengthSide(E, D);
-            sides[4] = LengthSide(A, E);
-            for (int i = 0; i < 5; i++)
-                Perimeter = Perimeter + sides[i];
+            points = new Point[] { A, B, C, D, E };
+            PerimeterCalculator();
         }
         private double LengthSide(Point A, Point B)
         {
             double x = Math.Pow((A.CoordX - B.CoordX), 2);
             double y = Math.Pow((A.CoordY - B.CoordY), 2);
             return Math.Pow(x + y, 0.5);
+        }
+        private void PerimeterCalculator()
+        {
+            for (int i = 0; i < points.Length - 1; i++)
+            {
+                Perimeter += LengthSide(points[i], points[i + 1]);
+            }
+            Perimeter += LengthSide(points[0], points[points.Length - 1]);
+            
         }
         public void Show()
         {

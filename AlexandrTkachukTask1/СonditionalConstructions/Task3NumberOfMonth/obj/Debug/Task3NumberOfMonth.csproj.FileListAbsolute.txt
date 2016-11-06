@@ -1,6 +1,0 @@
-C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\СonditionalConstructions\Task3NumberOfMonth\bin\Debug\Task3NumberOfMonth.exe.config
-C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\СonditionalConstructions\Task3NumberOfMonth\bin\Debug\Task3NumberOfMonth.exe
-C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\СonditionalConstructions\Task3NumberOfMonth\bin\Debug\Task3NumberOfMonth.pdb
-C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\СonditionalConstructions\Task3NumberOfMonth\obj\Debug\Task3NumberOfMonth.csprojResolveAssemblyReference.cache
-C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\СonditionalConstructions\Task3NumberOfMonth\obj\Debug\Task3NumberOfMonth.exe
-C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\СonditionalConstructions\Task3NumberOfMonth\obj\Debug\Task3NumberOfMonth.pdb

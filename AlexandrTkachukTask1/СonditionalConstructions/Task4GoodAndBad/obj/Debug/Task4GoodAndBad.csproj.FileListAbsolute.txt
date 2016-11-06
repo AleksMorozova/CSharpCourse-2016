@@ -1,6 +1,0 @@
-C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\СonditionalConstructions\Task4GoodAndBad\bin\Debug\Task4GoodAndBad.exe.config
-C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\СonditionalConstructions\Task4GoodAndBad\bin\Debug\Task4GoodAndBad.exe
-C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\СonditionalConstructions\Task4GoodAndBad\bin\Debug\Task4GoodAndBad.pdb
-C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\СonditionalConstructions\Task4GoodAndBad\obj\Debug\Task4GoodAndBad.csprojResolveAssemblyReference.cache
-C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\СonditionalConstructions\Task4GoodAndBad\obj\Debug\Task4GoodAndBad.exe
-C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\СonditionalConstructions\Task4GoodAndBad\obj\Debug\Task4GoodAndBad.pdb

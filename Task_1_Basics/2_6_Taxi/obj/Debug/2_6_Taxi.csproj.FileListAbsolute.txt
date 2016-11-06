@@ -1,5 +1,0 @@
-C:\Users\Головко\Desktop\Task_1_Basics\2_6_Taxi\bin\Debug\2_6_Taxi.exe.config
-C:\Users\Головко\Desktop\Task_1_Basics\2_6_Taxi\bin\Debug\2_6_Taxi.exe
-C:\Users\Головко\Desktop\Task_1_Basics\2_6_Taxi\bin\Debug\2_6_Taxi.pdb
-C:\Users\Головко\Desktop\Task_1_Basics\2_6_Taxi\obj\Debug\2_6_Taxi.exe
-C:\Users\Головко\Desktop\Task_1_Basics\2_6_Taxi\obj\Debug\2_6_Taxi.pdb

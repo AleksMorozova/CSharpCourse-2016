@@ -1,6 +1,0 @@
-C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\ConsoleApplication\Task1MyName\bin\Debug\Task1MyName.exe.config
-C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\ConsoleApplication\Task1MyName\bin\Debug\Task1MyName.exe
-C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\ConsoleApplication\Task1MyName\bin\Debug\Task1MyName.pdb
-C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\ConsoleApplication\Task1MyName\obj\Debug\Task1MyName.csprojResolveAssemblyReference.cache
-C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\ConsoleApplication\Task1MyName\obj\Debug\Task1MyName.exe
-C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\ConsoleApplication\Task1MyName\obj\Debug\Task1MyName.pdb

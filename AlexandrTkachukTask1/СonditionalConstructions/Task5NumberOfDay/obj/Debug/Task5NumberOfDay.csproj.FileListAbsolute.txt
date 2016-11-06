@@ -1,6 +1,0 @@
-C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\СonditionalConstructions\Task5NumberOfDay\bin\Debug\Task5NumberOfDay.exe.config
-C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\СonditionalConstructions\Task5NumberOfDay\bin\Debug\Task5NumberOfDay.exe
-C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\СonditionalConstructions\Task5NumberOfDay\bin\Debug\Task5NumberOfDay.pdb
-C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\СonditionalConstructions\Task5NumberOfDay\obj\Debug\Task5NumberOfDay.csprojResolveAssemblyReference.cache
-C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\СonditionalConstructions\Task5NumberOfDay\obj\Debug\Task5NumberOfDay.exe
-C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\СonditionalConstructions\Task5NumberOfDay\obj\Debug\Task5NumberOfDay.pdb

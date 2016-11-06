@@ -1,6 +1,0 @@
-C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\СonditionalConstructions\Task1GreaterNumber\bin\Debug\Task1GreaterNumber.exe.config
-C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\СonditionalConstructions\Task1GreaterNumber\bin\Debug\Task1GreaterNumber.exe
-C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\СonditionalConstructions\Task1GreaterNumber\bin\Debug\Task1GreaterNumber.pdb
-C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\СonditionalConstructions\Task1GreaterNumber\obj\Debug\Task1GreaterNumber.csprojResolveAssemblyReference.cache
-C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\СonditionalConstructions\Task1GreaterNumber\obj\Debug\Task1GreaterNumber.exe
-C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\СonditionalConstructions\Task1GreaterNumber\obj\Debug\Task1GreaterNumber.pdb

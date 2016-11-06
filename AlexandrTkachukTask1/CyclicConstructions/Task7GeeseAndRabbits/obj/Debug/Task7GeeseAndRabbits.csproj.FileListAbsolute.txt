@@ -1,6 +1,0 @@
-C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\CyclicConstructions\Task7GeeseAndRabbits\bin\Debug\Task7GeeseAndRabbits.exe.config
-C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\CyclicConstructions\Task7GeeseAndRabbits\bin\Debug\Task7GeeseAndRabbits.exe
-C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\CyclicConstructions\Task7GeeseAndRabbits\bin\Debug\Task7GeeseAndRabbits.pdb
-C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\CyclicConstructions\Task7GeeseAndRabbits\obj\Debug\Task7GeeseAndRabbits.csprojResolveAssemblyReference.cache
-C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\CyclicConstructions\Task7GeeseAndRabbits\obj\Debug\Task7GeeseAndRabbits.exe
-C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\CyclicConstructions\Task7GeeseAndRabbits\obj\Debug\Task7GeeseAndRabbits.pdb

@@ -1,6 +1,0 @@
-C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\CyclicConstructions\Task4TheSquaresOfTheNumbers\bin\Debug\Task4TheSquaresOfTheNumbers.exe.config
-C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\CyclicConstructions\Task4TheSquaresOfTheNumbers\bin\Debug\Task4TheSquaresOfTheNumbers.exe
-C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\CyclicConstructions\Task4TheSquaresOfTheNumbers\bin\Debug\Task4TheSquaresOfTheNumbers.pdb
-C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\CyclicConstructions\Task4TheSquaresOfTheNumbers\obj\Debug\Task4TheSquaresOfTheNumbers.csprojResolveAssemblyReference.cache
-C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\CyclicConstructions\Task4TheSquaresOfTheNumbers\obj\Debug\Task4TheSquaresOfTheNumbers.exe
-C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\CyclicConstructions\Task4TheSquaresOfTheNumbers\obj\Debug\Task4TheSquaresOfTheNumbers.pdb

@@ -1,6 +1,0 @@
-C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\СonditionalConstructions\Task6Taxi\bin\Debug\Task6Taxi.exe.config
-C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\СonditionalConstructions\Task6Taxi\bin\Debug\Task6Taxi.exe
-C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\СonditionalConstructions\Task6Taxi\bin\Debug\Task6Taxi.pdb
-C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\СonditionalConstructions\Task6Taxi\obj\Debug\Task6Taxi.csprojResolveAssemblyReference.cache
-C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\СonditionalConstructions\Task6Taxi\obj\Debug\Task6Taxi.exe
-C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\СonditionalConstructions\Task6Taxi\obj\Debug\Task6Taxi.pdb

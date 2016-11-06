@@ -1,5 +1,0 @@
-C:\Users\Головко\Desktop\Task_1_Basics\3_5_MiddleArifmeticInput\bin\Debug\3_5_MiddleArifmeticInput.exe.config
-C:\Users\Головко\Desktop\Task_1_Basics\3_5_MiddleArifmeticInput\bin\Debug\3_5_MiddleArifmeticInput.exe
-C:\Users\Головко\Desktop\Task_1_Basics\3_5_MiddleArifmeticInput\bin\Debug\3_5_MiddleArifmeticInput.pdb
-C:\Users\Головко\Desktop\Task_1_Basics\3_5_MiddleArifmeticInput\obj\Debug\3_5_MiddleArifmeticInput.exe
-C:\Users\Головко\Desktop\Task_1_Basics\3_5_MiddleArifmeticInput\obj\Debug\3_5_MiddleArifmeticInput.pdb

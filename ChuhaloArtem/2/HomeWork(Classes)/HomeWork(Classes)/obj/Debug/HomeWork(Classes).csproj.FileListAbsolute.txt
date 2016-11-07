@@ -1,0 +1,12 @@
+D:\Игры\Проэкты\HomeWork(Classes)\HomeWork(Classes)\bin\Debug\HomeWork(Classes).exe.config
+D:\Игры\Проэкты\HomeWork(Classes)\HomeWork(Classes)\bin\Debug\HomeWork(Classes).exe
+D:\Игры\Проэкты\HomeWork(Classes)\HomeWork(Classes)\bin\Debug\HomeWork(Classes).pdb
+D:\Игры\Проэкты\HomeWork(Classes)\HomeWork(Classes)\obj\Debug\HomeWork(Classes).csprojResolveAssemblyReference.cache
+D:\Игры\Проэкты\HomeWork(Classes)\HomeWork(Classes)\obj\Debug\HomeWork(Classes).exe
+D:\Игры\Проэкты\HomeWork(Classes)\HomeWork(Classes)\obj\Debug\HomeWork(Classes).pdb
+D:\Игры\C#\HomeWork(Classes)\HomeWork(Classes)\bin\Debug\HomeWork(Classes).exe.config
+D:\Игры\C#\HomeWork(Classes)\HomeWork(Classes)\obj\Debug\HomeWork(Classes).exe
+D:\Игры\C#\HomeWork(Classes)\HomeWork(Classes)\obj\Debug\HomeWork(Classes).pdb
+D:\Игры\C#\HomeWork(Classes)\HomeWork(Classes)\bin\Debug\HomeWork(Classes).exe
+D:\Игры\C#\HomeWork(Classes)\HomeWork(Classes)\bin\Debug\HomeWork(Classes).pdb
+D:\Игры\C#\HomeWork(Classes)\HomeWork(Classes)\obj\Debug\HomeWork(Classes).csprojResolveAssemblyReference.cache

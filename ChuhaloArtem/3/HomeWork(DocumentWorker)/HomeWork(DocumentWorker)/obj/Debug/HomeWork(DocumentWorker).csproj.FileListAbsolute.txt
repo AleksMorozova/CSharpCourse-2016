@@ -1,0 +1,6 @@
+D:\Игры\C#\Курсы\3\HomeWork(DocumentWorker)\HomeWork(DocumentWorker)\bin\Debug\HomeWork(DocumentWorker).exe.config
+D:\Игры\C#\Курсы\3\HomeWork(DocumentWorker)\HomeWork(DocumentWorker)\obj\Debug\HomeWork(DocumentWorker).csprojResolveAssemblyReference.cache
+D:\Игры\C#\Курсы\3\HomeWork(DocumentWorker)\HomeWork(DocumentWorker)\bin\Debug\HomeWork(DocumentWorker).exe
+D:\Игры\C#\Курсы\3\HomeWork(DocumentWorker)\HomeWork(DocumentWorker)\bin\Debug\HomeWork(DocumentWorker).pdb
+D:\Игры\C#\Курсы\3\HomeWork(DocumentWorker)\HomeWork(DocumentWorker)\obj\Debug\HomeWork(DocumentWorker).exe
+D:\Игры\C#\Курсы\3\HomeWork(DocumentWorker)\HomeWork(DocumentWorker)\obj\Debug\HomeWork(DocumentWorker).pdb

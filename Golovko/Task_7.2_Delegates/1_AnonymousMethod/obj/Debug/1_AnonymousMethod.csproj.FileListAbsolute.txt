@@ -1,0 +1,5 @@
+c:\users\головко\documents\visual studio 2015\Projects\Task_7.2_Delegates\1_AnonymousMethod\bin\Debug\1_AnonymousMethod.exe.config
+c:\users\головко\documents\visual studio 2015\Projects\Task_7.2_Delegates\1_AnonymousMethod\bin\Debug\1_AnonymousMethod.exe
+c:\users\головко\documents\visual studio 2015\Projects\Task_7.2_Delegates\1_AnonymousMethod\bin\Debug\1_AnonymousMethod.pdb
+c:\users\головко\documents\visual studio 2015\Projects\Task_7.2_Delegates\1_AnonymousMethod\obj\Debug\1_AnonymousMethod.exe
+c:\users\головко\documents\visual studio 2015\Projects\Task_7.2_Delegates\1_AnonymousMethod\obj\Debug\1_AnonymousMethod.pdb

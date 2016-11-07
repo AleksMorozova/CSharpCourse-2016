@@ -1,0 +1,5 @@
+c:\users\головко\documents\visual studio 2015\Projects\Task_7.2_Delegates\3_DelegatesArray\bin\Debug\3_DelegatesArray.exe.config
+c:\users\головко\documents\visual studio 2015\Projects\Task_7.2_Delegates\3_DelegatesArray\bin\Debug\3_DelegatesArray.exe
+c:\users\головко\documents\visual studio 2015\Projects\Task_7.2_Delegates\3_DelegatesArray\bin\Debug\3_DelegatesArray.pdb
+c:\users\головко\documents\visual studio 2015\Projects\Task_7.2_Delegates\3_DelegatesArray\obj\Debug\3_DelegatesArray.exe
+c:\users\головко\documents\visual studio 2015\Projects\Task_7.2_Delegates\3_DelegatesArray\obj\Debug\3_DelegatesArray.pdb

@@ -1,0 +1,5 @@
+c:\users\головко\documents\visual studio 2015\Projects\Task_8\3_MyDictionary\bin\Debug\3_MyDictionary.exe.config
+c:\users\головко\documents\visual studio 2015\Projects\Task_8\3_MyDictionary\bin\Debug\3_MyDictionary.exe
+c:\users\головко\documents\visual studio 2015\Projects\Task_8\3_MyDictionary\bin\Debug\3_MyDictionary.pdb
+c:\users\головко\documents\visual studio 2015\Projects\Task_8\3_MyDictionary\obj\Debug\3_MyDictionary.exe
+c:\users\головко\documents\visual studio 2015\Projects\Task_8\3_MyDictionary\obj\Debug\3_MyDictionary.pdb

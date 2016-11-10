@@ -1,0 +1,6 @@
+c:\users\головко\documents\visual studio 2015\Projects\Task_10\3_FileSearcher\bin\Debug\3_FileSearcher.exe.config
+c:\users\головко\documents\visual studio 2015\Projects\Task_10\3_FileSearcher\bin\Debug\3_FileSearcher.exe
+c:\users\головко\documents\visual studio 2015\Projects\Task_10\3_FileSearcher\bin\Debug\3_FileSearcher.pdb
+c:\users\головко\documents\visual studio 2015\Projects\Task_10\3_FileSearcher\obj\Debug\3_FileSearcher.exe
+c:\users\головко\documents\visual studio 2015\Projects\Task_10\3_FileSearcher\obj\Debug\3_FileSearcher.pdb
+c:\users\головко\documents\visual studio 2015\Projects\Task_10\3_FileSearcher\obj\Debug\3_FileSearcher.csprojResolveAssemblyReference.cache

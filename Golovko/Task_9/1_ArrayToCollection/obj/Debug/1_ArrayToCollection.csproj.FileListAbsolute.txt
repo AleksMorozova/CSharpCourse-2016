@@ -1,0 +1,6 @@
+c:\users\головко\documents\visual studio 2015\Projects\Task_9\1_ArrayToCollection\bin\Debug\1_ArrayToCollection.exe.config
+c:\users\головко\documents\visual studio 2015\Projects\Task_9\1_ArrayToCollection\bin\Debug\1_ArrayToCollection.exe
+c:\users\головко\documents\visual studio 2015\Projects\Task_9\1_ArrayToCollection\bin\Debug\1_ArrayToCollection.pdb
+c:\users\головко\documents\visual studio 2015\Projects\Task_9\1_ArrayToCollection\obj\Debug\1_ArrayToCollection.exe
+c:\users\головко\documents\visual studio 2015\Projects\Task_9\1_ArrayToCollection\obj\Debug\1_ArrayToCollection.pdb
+c:\users\головко\documents\visual studio 2015\Projects\Task_9\1_ArrayToCollection\obj\Debug\1_ArrayToCollection.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+C:\Users\Головко\Documents\Visual Studio 2015\Projects\Task_8\4_ExtendedMethod\bin\Debug\4_ExtendedMethod.exe.config
+C:\Users\Головко\Documents\Visual Studio 2015\Projects\Task_8\4_ExtendedMethod\obj\Debug\4_ExtendedMethod.csprojResolveAssemblyReference.cache
+C:\Users\Головко\Documents\Visual Studio 2015\Projects\Task_8\4_ExtendedMethod\bin\Debug\4_ExtendedMethod.exe
+C:\Users\Головко\Documents\Visual Studio 2015\Projects\Task_8\4_ExtendedMethod\bin\Debug\4_ExtendedMethod.pdb
+C:\Users\Головко\Documents\Visual Studio 2015\Projects\Task_8\4_ExtendedMethod\bin\Debug\2_MyList.exe
+C:\Users\Головко\Documents\Visual Studio 2015\Projects\Task_8\4_ExtendedMethod\bin\Debug\2_MyList.pdb
+C:\Users\Головко\Documents\Visual Studio 2015\Projects\Task_8\4_ExtendedMethod\obj\Debug\4_ExtendedMethod.exe
+C:\Users\Головко\Documents\Visual Studio 2015\Projects\Task_8\4_ExtendedMethod\obj\Debug\4_ExtendedMethod.pdb

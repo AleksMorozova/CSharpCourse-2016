@@ -1,0 +1,9 @@
+c:\users\головко\documents\visual studio 2015\Projects\Task_9\MyDictionary\bin\Debug\MyDictionary.exe.config
+c:\users\головко\documents\visual studio 2015\Projects\Task_9\MyDictionary\bin\Debug\MyDictionary.exe
+c:\users\головко\documents\visual studio 2015\Projects\Task_9\MyDictionary\bin\Debug\MyDictionary.pdb
+c:\users\головко\documents\visual studio 2015\Projects\Task_9\MyDictionary\obj\Debug\MyDictionary.exe
+c:\users\головко\documents\visual studio 2015\Projects\Task_9\MyDictionary\obj\Debug\MyDictionary.pdb
+c:\users\головко\documents\visual studio 2015\Projects\Task_9\MyDictionary\obj\Debug\3_MyDictionary.csprojResolveAssemblyReference.cache
+C:\Users\Головко\Documents\Visual Studio 2015\Projects\Task_9\5_MyDictionary\bin\Debug\MyDictionary.exe.config
+C:\Users\Головко\Documents\Visual Studio 2015\Projects\Task_9\5_MyDictionary\obj\Debug\MyDictionary.exe
+C:\Users\Головко\Documents\Visual Studio 2015\Projects\Task_9\5_MyDictionary\obj\Debug\MyDictionary.pdb

@@ -4,3 +4,6 @@ c:\users\svezho\documents\visual studio 2015\Projects\Abstractions_1_AbstractHan
 c:\users\svezho\documents\visual studio 2015\Projects\Abstractions_1_AbstractHandler\Abstractions_1_AbstractHandler\bin\Debug\Abstractions_1_AbstractHandler.pdb
 c:\users\svezho\documents\visual studio 2015\Projects\Abstractions_1_AbstractHandler\Abstractions_1_AbstractHandler\obj\Debug\Abstractions_1_AbstractHandler.exe
 c:\users\svezho\documents\visual studio 2015\Projects\Abstractions_1_AbstractHandler\Abstractions_1_AbstractHandler\obj\Debug\Abstractions_1_AbstractHandler.pdb
+D:\ISD\CSharpCourse-2016\maltsev\Task4\Abstractions_1_AbstractHandler\Abstractions_1_AbstractHandler\bin\Debug\Abstractions_1_AbstractHandler.exe.config
+D:\ISD\CSharpCourse-2016\maltsev\Task4\Abstractions_1_AbstractHandler\Abstractions_1_AbstractHandler\obj\Debug\Abstractions_1_AbstractHandler.exe
+D:\ISD\CSharpCourse-2016\maltsev\Task4\Abstractions_1_AbstractHandler\Abstractions_1_AbstractHandler\obj\Debug\Abstractions_1_AbstractHandler.pdb

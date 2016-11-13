@@ -35,30 +35,34 @@ namespace Static_4_MyMethods
 
             return -1;
         }
-        static public string Replace(string _str, string first, string second)
+        static public string Replace(string _str, string old, string news)
         {
-            string temp = "";
-            int index = IndexOf(_str, first);
+            string changed_str = _str;
+            string temp_str = _str;
+            while (true)
+            {
+                int index = IndexOf(changed_str, old);
 
-            if (index == -1)
-            {
-                return _str;
-            }
+                if (index == -1)
+                {
+                    return changed_str;
+                }
+                temp_str = changed_str;
+                changed_str = "";
 
-            for (int i = 0; i < index; i++)
-            {
-                temp += _str[i];
+                for (int i = 0; i < index; i++)
+                {
+                    changed_str += temp_str[i];
+                }
+                for (int i = 0; i < news.Length; i++)
+                {
+                    changed_str += news[i];
+                }
+                for (int i = index + old.Length; i < temp_str.Length; i++)
+                {
+                    changed_str += temp_str[i];
+                }
             }
-            for (int i = 0; i < second.Length; i++)
-            {
-                temp += second[i];
-            }
-            for (int i = index + first.Length; i < _str.Length; i++)
-            {
-                temp += _str[i];
-            }
-            return temp;
-
         }
     }
 
@@ -67,14 +71,15 @@ namespace Static_4_MyMethods
     {
         static void Main(string[] args)
         {
-            string s = "Hollywood!";
+            string s = "Hollywoodrewood!";//
             Console.WriteLine(s.Substring(1, 5));//ollyw
             Console.WriteLine(s.IndexOf("llyw"));//2
-            Console.WriteLine(s.Replace("wood" , "steel"));//Hollysteel!
+            Console.WriteLine(s.Replace("wood" , "steel"));//Hollysteelresteel!
             Console.WriteLine();
+
             Console.WriteLine(MyString.Substring(s, 1, 5));//ollyw
             Console.WriteLine(MyString.IndexOf(s, "llyw"));//2
-            Console.WriteLine(MyString.Replace(s,"wood", "steel"));//Hollysteel!
+            Console.WriteLine(MyString.Replace(s,"wood", "steel"));//Hollysteelresteel!
             Console.ReadKey();
             
             

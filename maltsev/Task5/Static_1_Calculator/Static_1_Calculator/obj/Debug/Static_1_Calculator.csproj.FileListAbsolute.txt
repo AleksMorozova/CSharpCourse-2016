@@ -4,3 +4,6 @@ c:\users\svezho\documents\visual studio 2015\Projects\Static_1_Calculator\Static
 c:\users\svezho\documents\visual studio 2015\Projects\Static_1_Calculator\Static_1_Calculator\obj\Debug\Static_1_Calculator.csprojResolveAssemblyReference.cache
 c:\users\svezho\documents\visual studio 2015\Projects\Static_1_Calculator\Static_1_Calculator\obj\Debug\Static_1_Calculator.exe
 c:\users\svezho\documents\visual studio 2015\Projects\Static_1_Calculator\Static_1_Calculator\obj\Debug\Static_1_Calculator.pdb
+D:\ISD\CSharpCourse-2016\maltsev\Task5\Static_1_Calculator\Static_1_Calculator\bin\Debug\Static_1_Calculator.exe.config
+D:\ISD\CSharpCourse-2016\maltsev\Task5\Static_1_Calculator\Static_1_Calculator\obj\Debug\Static_1_Calculator.exe
+D:\ISD\CSharpCourse-2016\maltsev\Task5\Static_1_Calculator\Static_1_Calculator\obj\Debug\Static_1_Calculator.pdb

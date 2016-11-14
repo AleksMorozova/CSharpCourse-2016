@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2015\Projects\HomeWork5(Calc)\HomeWork5(Calc)\bin\Debug\HomeWork5(Calc).exe.config
+c:\users\user\documents\visual studio 2015\Projects\HomeWork5(Calc)\HomeWork5(Calc)\bin\Debug\HomeWork5(Calc).exe
+c:\users\user\documents\visual studio 2015\Projects\HomeWork5(Calc)\HomeWork5(Calc)\bin\Debug\HomeWork5(Calc).pdb
+c:\users\user\documents\visual studio 2015\Projects\HomeWork5(Calc)\HomeWork5(Calc)\obj\Debug\HomeWork5(Calc).csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\HomeWork5(Calc)\HomeWork5(Calc)\obj\Debug\HomeWork5(Calc).exe
+c:\users\user\documents\visual studio 2015\Projects\HomeWork5(Calc)\HomeWork5(Calc)\obj\Debug\HomeWork5(Calc).pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\5\HomeWork5(Calc)\HomeWork5(Calc)\bin\Debug\HomeWork5(Calc).exe.config
+C:\Users\USER\Documents\Visual Studio 2015\Projects\5\HomeWork5(Calc)\HomeWork5(Calc)\obj\Debug\HomeWork5(Calc).exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\5\HomeWork5(Calc)\HomeWork5(Calc)\obj\Debug\HomeWork5(Calc).pdb

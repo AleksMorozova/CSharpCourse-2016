@@ -1,0 +1,4 @@
+c:\users\svezho\documents\visual studio 2010\Projects\3_4_Squares\3_4_Squares\bin\Debug\3_4_Squares.exe
+c:\users\svezho\documents\visual studio 2010\Projects\3_4_Squares\3_4_Squares\bin\Debug\3_4_Squares.pdb
+c:\users\svezho\documents\visual studio 2010\Projects\3_4_Squares\3_4_Squares\obj\x86\Debug\3_4_Squares.exe
+c:\users\svezho\documents\visual studio 2010\Projects\3_4_Squares\3_4_Squares\obj\x86\Debug\3_4_Squares.pdb

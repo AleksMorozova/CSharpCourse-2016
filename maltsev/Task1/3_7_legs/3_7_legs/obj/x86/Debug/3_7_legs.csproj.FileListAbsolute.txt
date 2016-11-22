@@ -1,0 +1,4 @@
+C:\Users\svezho\Documents\Visual Studio 2010\Projects\3_7_legs\3_7_legs\bin\Debug\3_7_legs.exe
+C:\Users\svezho\Documents\Visual Studio 2010\Projects\3_7_legs\3_7_legs\bin\Debug\3_7_legs.pdb
+C:\Users\svezho\Documents\Visual Studio 2010\Projects\3_7_legs\3_7_legs\obj\x86\Debug\3_7_legs.exe
+C:\Users\svezho\Documents\Visual Studio 2010\Projects\3_7_legs\3_7_legs\obj\x86\Debug\3_7_legs.pdb

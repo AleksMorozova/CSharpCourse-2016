@@ -1,0 +1,6 @@
+c:\users\svezho\documents\visual studio 2015\Projects\Inharitance_ClassRoom\Inharitance_ClassRoom\bin\Debug\Inharitance_ClassRoom.exe.config
+c:\users\svezho\documents\visual studio 2015\Projects\Inharitance_ClassRoom\Inharitance_ClassRoom\bin\Debug\Inharitance_ClassRoom.exe
+c:\users\svezho\documents\visual studio 2015\Projects\Inharitance_ClassRoom\Inharitance_ClassRoom\bin\Debug\Inharitance_ClassRoom.pdb
+c:\users\svezho\documents\visual studio 2015\Projects\Inharitance_ClassRoom\Inharitance_ClassRoom\obj\Debug\Inharitance_ClassRoom.csprojResolveAssemblyReference.cache
+c:\users\svezho\documents\visual studio 2015\Projects\Inharitance_ClassRoom\Inharitance_ClassRoom\obj\Debug\Inharitance_ClassRoom.exe
+c:\users\svezho\documents\visual studio 2015\Projects\Inharitance_ClassRoom\Inharitance_ClassRoom\obj\Debug\Inharitance_ClassRoom.pdb

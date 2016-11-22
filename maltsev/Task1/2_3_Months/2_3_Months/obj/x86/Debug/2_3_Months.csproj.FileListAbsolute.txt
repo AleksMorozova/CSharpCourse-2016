@@ -1,0 +1,4 @@
+c:\users\svezho\documents\visual studio 2010\Projects\2_3_Months\2_3_Months\bin\Debug\2_3_Months.exe
+c:\users\svezho\documents\visual studio 2010\Projects\2_3_Months\2_3_Months\bin\Debug\2_3_Months.pdb
+c:\users\svezho\documents\visual studio 2010\Projects\2_3_Months\2_3_Months\obj\x86\Debug\2_3_Months.exe
+c:\users\svezho\documents\visual studio 2010\Projects\2_3_Months\2_3_Months\obj\x86\Debug\2_3_Months.pdb

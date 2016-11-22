@@ -1,6 +1,0 @@
-C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\CyclicConstructions\Task3GuessTheNumber\bin\Debug\Task3GuessTheNumber.exe.config
-C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\CyclicConstructions\Task3GuessTheNumber\bin\Debug\Task3GuessTheNumber.exe
-C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\CyclicConstructions\Task3GuessTheNumber\bin\Debug\Task3GuessTheNumber.pdb
-C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\CyclicConstructions\Task3GuessTheNumber\obj\Debug\Task3GuessTheNumber.csprojResolveAssemblyReference.cache
-C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\CyclicConstructions\Task3GuessTheNumber\obj\Debug\Task3GuessTheNumber.exe
-C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\CyclicConstructions\Task3GuessTheNumber\obj\Debug\Task3GuessTheNumber.pdb

@@ -1,0 +1,4 @@
+c:\users\svezho\documents\visual studio 2010\Projects\2_6_Taxi\2_6_Taxi\bin\Debug\2_6_Taxi.exe
+c:\users\svezho\documents\visual studio 2010\Projects\2_6_Taxi\2_6_Taxi\bin\Debug\2_6_Taxi.pdb
+c:\users\svezho\documents\visual studio 2010\Projects\2_6_Taxi\2_6_Taxi\obj\x86\Debug\2_6_Taxi.exe
+c:\users\svezho\documents\visual studio 2010\Projects\2_6_Taxi\2_6_Taxi\obj\x86\Debug\2_6_Taxi.pdb

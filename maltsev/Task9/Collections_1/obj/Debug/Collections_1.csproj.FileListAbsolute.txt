@@ -1,0 +1,6 @@
+c:\users\svezho\documents\visual studio 2015\Projects\Collections_1\bin\Debug\Collections_1.exe.config
+C:\Users\svezho\documents\visual studio 2015\Projects\Collections_1\bin\Debug\Collections_1.exe
+C:\Users\svezho\documents\visual studio 2015\Projects\Collections_1\bin\Debug\Collections_1.pdb
+C:\Users\svezho\documents\visual studio 2015\Projects\Collections_1\obj\Debug\Collections_1.csprojResolveAssemblyReference.cache
+C:\Users\svezho\documents\visual studio 2015\Projects\Collections_1\obj\Debug\Collections_1.exe
+C:\Users\svezho\documents\visual studio 2015\Projects\Collections_1\obj\Debug\Collections_1.pdb

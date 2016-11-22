@@ -1,0 +1,5 @@
+c:\users\svezho\documents\visual studio 2015\Projects\Struct_4_BDay\Struct_4_BDay\bin\Debug\Struct_4_BDay.exe.config
+c:\users\svezho\documents\visual studio 2015\Projects\Struct_4_BDay\Struct_4_BDay\bin\Debug\Struct_4_BDay.exe
+c:\users\svezho\documents\visual studio 2015\Projects\Struct_4_BDay\Struct_4_BDay\bin\Debug\Struct_4_BDay.pdb
+c:\users\svezho\documents\visual studio 2015\Projects\Struct_4_BDay\Struct_4_BDay\obj\Debug\Struct_4_BDay.exe
+c:\users\svezho\documents\visual studio 2015\Projects\Struct_4_BDay\Struct_4_BDay\obj\Debug\Struct_4_BDay.pdb

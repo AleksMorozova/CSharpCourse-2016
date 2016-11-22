@@ -1,0 +1,6 @@
+c:\users\svezho\documents\visual studio 2015\Projects\Classes_7_Employee\Classes_7_Employee\bin\Debug\Classes_7_Employee.exe.config
+c:\users\svezho\documents\visual studio 2015\Projects\Classes_7_Employee\Classes_7_Employee\bin\Debug\Classes_7_Employee.exe
+c:\users\svezho\documents\visual studio 2015\Projects\Classes_7_Employee\Classes_7_Employee\bin\Debug\Classes_7_Employee.pdb
+c:\users\svezho\documents\visual studio 2015\Projects\Classes_7_Employee\Classes_7_Employee\obj\Debug\Classes_7_Employee.csprojResolveAssemblyReference.cache
+c:\users\svezho\documents\visual studio 2015\Projects\Classes_7_Employee\Classes_7_Employee\obj\Debug\Classes_7_Employee.exe
+c:\users\svezho\documents\visual studio 2015\Projects\Classes_7_Employee\Classes_7_Employee\obj\Debug\Classes_7_Employee.pdb

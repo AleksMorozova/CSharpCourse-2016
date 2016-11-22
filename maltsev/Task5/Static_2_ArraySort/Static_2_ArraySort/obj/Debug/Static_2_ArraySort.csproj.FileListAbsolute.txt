@@ -1,0 +1,6 @@
+c:\users\svezho\documents\visual studio 2015\Projects\Static_2_ArraySort\Static_2_ArraySort\bin\Debug\Static_2_ArraySort.exe.config
+c:\users\svezho\documents\visual studio 2015\Projects\Static_2_ArraySort\Static_2_ArraySort\bin\Debug\Static_2_ArraySort.exe
+c:\users\svezho\documents\visual studio 2015\Projects\Static_2_ArraySort\Static_2_ArraySort\bin\Debug\Static_2_ArraySort.pdb
+c:\users\svezho\documents\visual studio 2015\Projects\Static_2_ArraySort\Static_2_ArraySort\obj\Debug\Static_2_ArraySort.csprojResolveAssemblyReference.cache
+c:\users\svezho\documents\visual studio 2015\Projects\Static_2_ArraySort\Static_2_ArraySort\obj\Debug\Static_2_ArraySort.exe
+c:\users\svezho\documents\visual studio 2015\Projects\Static_2_ArraySort\Static_2_ArraySort\obj\Debug\Static_2_ArraySort.pdb

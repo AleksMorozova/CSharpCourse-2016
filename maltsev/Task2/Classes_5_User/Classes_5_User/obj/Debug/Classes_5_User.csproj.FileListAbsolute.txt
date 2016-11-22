@@ -1,0 +1,6 @@
+c:\users\svezho\documents\visual studio 2015\Projects\Classes_5_User\Classes_5_User\bin\Debug\Classes_5_User.exe.config
+c:\users\svezho\documents\visual studio 2015\Projects\Classes_5_User\Classes_5_User\bin\Debug\Classes_5_User.exe
+c:\users\svezho\documents\visual studio 2015\Projects\Classes_5_User\Classes_5_User\bin\Debug\Classes_5_User.pdb
+c:\users\svezho\documents\visual studio 2015\Projects\Classes_5_User\Classes_5_User\obj\Debug\Classes_5_User.csprojResolveAssemblyReference.cache
+c:\users\svezho\documents\visual studio 2015\Projects\Classes_5_User\Classes_5_User\obj\Debug\Classes_5_User.exe
+c:\users\svezho\documents\visual studio 2015\Projects\Classes_5_User\Classes_5_User\obj\Debug\Classes_5_User.pdb

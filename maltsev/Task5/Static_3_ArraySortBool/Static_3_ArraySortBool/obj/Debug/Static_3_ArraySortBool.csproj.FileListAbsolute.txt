@@ -1,0 +1,5 @@
+c:\users\svezho\documents\visual studio 2015\Projects\Static_3_ArraySortBool\Static_3_ArraySortBool\bin\Debug\Static_3_ArraySortBool.exe.config
+c:\users\svezho\documents\visual studio 2015\Projects\Static_3_ArraySortBool\Static_3_ArraySortBool\bin\Debug\Static_3_ArraySortBool.exe
+c:\users\svezho\documents\visual studio 2015\Projects\Static_3_ArraySortBool\Static_3_ArraySortBool\bin\Debug\Static_3_ArraySortBool.pdb
+c:\users\svezho\documents\visual studio 2015\Projects\Static_3_ArraySortBool\Static_3_ArraySortBool\obj\Debug\Static_3_ArraySortBool.exe
+c:\users\svezho\documents\visual studio 2015\Projects\Static_3_ArraySortBool\Static_3_ArraySortBool\obj\Debug\Static_3_ArraySortBool.pdb

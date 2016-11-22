@@ -1,0 +1,6 @@
+c:\users\svezho\documents\visual studio 2015\Projects\Generics_4\bin\Debug\Generics_4.exe.config
+c:\users\svezho\documents\visual studio 2015\Projects\Generics_4\obj\Debug\Generics_4.csprojResolveAssemblyReference.cache
+c:\users\svezho\documents\visual studio 2015\Projects\Generics_4\bin\Debug\Generics_4.exe
+c:\users\svezho\documents\visual studio 2015\Projects\Generics_4\bin\Debug\Generics_4.pdb
+c:\users\svezho\documents\visual studio 2015\Projects\Generics_4\obj\Debug\Generics_4.exe
+c:\users\svezho\documents\visual studio 2015\Projects\Generics_4\obj\Debug\Generics_4.pdb

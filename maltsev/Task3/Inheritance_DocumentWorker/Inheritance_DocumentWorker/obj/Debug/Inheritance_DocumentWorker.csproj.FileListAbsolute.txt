@@ -1,0 +1,6 @@
+c:\users\svezho\documents\visual studio 2015\Projects\Inheritance_DocumentWorker\Inheritance_DocumentWorker\bin\Debug\Inheritance_DocumentWorker.exe.config
+C:\Users\svezho\Documents\Visual Studio 2015\Projects\Inheritance_DocumentWorker\Inheritance_DocumentWorker\bin\Debug\Inheritance_DocumentWorker.exe
+C:\Users\svezho\Documents\Visual Studio 2015\Projects\Inheritance_DocumentWorker\Inheritance_DocumentWorker\bin\Debug\Inheritance_DocumentWorker.pdb
+C:\Users\svezho\Documents\Visual Studio 2015\Projects\Inheritance_DocumentWorker\Inheritance_DocumentWorker\obj\Debug\Inheritance_DocumentWorker.csprojResolveAssemblyReference.cache
+C:\Users\svezho\Documents\Visual Studio 2015\Projects\Inheritance_DocumentWorker\Inheritance_DocumentWorker\obj\Debug\Inheritance_DocumentWorker.exe
+C:\Users\svezho\Documents\Visual Studio 2015\Projects\Inheritance_DocumentWorker\Inheritance_DocumentWorker\obj\Debug\Inheritance_DocumentWorker.pdb

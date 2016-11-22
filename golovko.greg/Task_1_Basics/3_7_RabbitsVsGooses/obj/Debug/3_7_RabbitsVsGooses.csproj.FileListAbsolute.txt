@@ -1,5 +1,0 @@
-C:\Users\Головко\Desktop\Task_1_Basics\3_7_RabbitsVsGooses\bin\Debug\3_7_RabbitsVsGooses.exe.config
-C:\Users\Головко\Desktop\Task_1_Basics\3_7_RabbitsVsGooses\bin\Debug\3_7_RabbitsVsGooses.exe
-C:\Users\Головко\Desktop\Task_1_Basics\3_7_RabbitsVsGooses\bin\Debug\3_7_RabbitsVsGooses.pdb
-C:\Users\Головко\Desktop\Task_1_Basics\3_7_RabbitsVsGooses\obj\Debug\3_7_RabbitsVsGooses.exe
-C:\Users\Головко\Desktop\Task_1_Basics\3_7_RabbitsVsGooses\obj\Debug\3_7_RabbitsVsGooses.pdb

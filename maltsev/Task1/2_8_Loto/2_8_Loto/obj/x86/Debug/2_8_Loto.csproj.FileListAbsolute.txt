@@ -1,0 +1,4 @@
+c:\users\svezho\documents\visual studio 2010\Projects\2_8_Loto\2_8_Loto\bin\Debug\2_8_Loto.exe
+c:\users\svezho\documents\visual studio 2010\Projects\2_8_Loto\2_8_Loto\bin\Debug\2_8_Loto.pdb
+c:\users\svezho\documents\visual studio 2010\Projects\2_8_Loto\2_8_Loto\obj\x86\Debug\2_8_Loto.exe
+c:\users\svezho\documents\visual studio 2010\Projects\2_8_Loto\2_8_Loto\obj\x86\Debug\2_8_Loto.pdb

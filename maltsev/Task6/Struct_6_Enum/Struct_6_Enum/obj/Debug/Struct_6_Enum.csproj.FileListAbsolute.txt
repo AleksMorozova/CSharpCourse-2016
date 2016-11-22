@@ -1,0 +1,6 @@
+c:\users\svezho\documents\visual studio 2015\Projects\Struct_6_Enum\Struct_6_Enum\bin\Debug\Struct_6_Enum.exe.config
+c:\users\svezho\documents\visual studio 2015\Projects\Struct_6_Enum\Struct_6_Enum\bin\Debug\Struct_6_Enum.exe
+c:\users\svezho\documents\visual studio 2015\Projects\Struct_6_Enum\Struct_6_Enum\bin\Debug\Struct_6_Enum.pdb
+c:\users\svezho\documents\visual studio 2015\Projects\Struct_6_Enum\Struct_6_Enum\obj\Debug\Struct_6_Enum.csprojResolveAssemblyReference.cache
+c:\users\svezho\documents\visual studio 2015\Projects\Struct_6_Enum\Struct_6_Enum\obj\Debug\Struct_6_Enum.exe
+c:\users\svezho\documents\visual studio 2015\Projects\Struct_6_Enum\Struct_6_Enum\obj\Debug\Struct_6_Enum.pdb

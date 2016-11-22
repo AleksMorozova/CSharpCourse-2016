@@ -1,0 +1,4 @@
+c:\users\svezho\documents\visual studio 2010\Projects\3_1_Multiply\3_1_Multiply\bin\Debug\3_1_Multiply.exe
+c:\users\svezho\documents\visual studio 2010\Projects\3_1_Multiply\3_1_Multiply\bin\Debug\3_1_Multiply.pdb
+c:\users\svezho\documents\visual studio 2010\Projects\3_1_Multiply\3_1_Multiply\obj\x86\Debug\3_1_Multiply.exe
+c:\users\svezho\documents\visual studio 2010\Projects\3_1_Multiply\3_1_Multiply\obj\x86\Debug\3_1_Multiply.pdb

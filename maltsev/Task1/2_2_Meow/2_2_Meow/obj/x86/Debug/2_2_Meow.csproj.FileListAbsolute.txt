@@ -1,0 +1,4 @@
+c:\users\svezho\documents\visual studio 2010\Projects\2_2_Meow\2_2_Meow\bin\Debug\2_2_Meow.exe
+c:\users\svezho\documents\visual studio 2010\Projects\2_2_Meow\2_2_Meow\bin\Debug\2_2_Meow.pdb
+c:\users\svezho\documents\visual studio 2010\Projects\2_2_Meow\2_2_Meow\obj\x86\Debug\2_2_Meow.exe
+c:\users\svezho\documents\visual studio 2010\Projects\2_2_Meow\2_2_Meow\obj\x86\Debug\2_2_Meow.pdb

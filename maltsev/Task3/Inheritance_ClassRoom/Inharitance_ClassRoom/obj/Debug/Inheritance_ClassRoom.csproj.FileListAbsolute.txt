@@ -1,0 +1,5 @@
+C:\Users\svezho\Documents\Visual Studio 2015\Projects\Inharitance_ClassRoom\Inharitance_ClassRoom\bin\Debug\Inharitance_ClassRoom.exe.config
+C:\Users\svezho\Documents\Visual Studio 2015\Projects\Inharitance_ClassRoom\Inharitance_ClassRoom\bin\Debug\Inharitance_ClassRoom.exe
+C:\Users\svezho\Documents\Visual Studio 2015\Projects\Inharitance_ClassRoom\Inharitance_ClassRoom\bin\Debug\Inharitance_ClassRoom.pdb
+C:\Users\svezho\Documents\Visual Studio 2015\Projects\Inharitance_ClassRoom\Inharitance_ClassRoom\obj\Debug\Inharitance_ClassRoom.exe
+C:\Users\svezho\Documents\Visual Studio 2015\Projects\Inharitance_ClassRoom\Inharitance_ClassRoom\obj\Debug\Inharitance_ClassRoom.pdb

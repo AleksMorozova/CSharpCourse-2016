@@ -1,0 +1,6 @@
+c:\users\головко\documents\visual studio 2015\Projects\Task_6\4_Birthday\bin\Debug\4_Birthday.exe.config
+c:\users\головко\documents\visual studio 2015\Projects\Task_6\4_Birthday\bin\Debug\4_Birthday.exe
+c:\users\головко\documents\visual studio 2015\Projects\Task_6\4_Birthday\bin\Debug\4_Birthday.pdb
+c:\users\головко\documents\visual studio 2015\Projects\Task_6\4_Birthday\obj\Debug\4_Birthday.exe
+c:\users\головко\documents\visual studio 2015\Projects\Task_6\4_Birthday\obj\Debug\4_Birthday.pdb
+c:\users\головко\documents\visual studio 2015\Projects\Task_6\4_Birthday\obj\Debug\4_Birthday.csprojResolveAssemblyReference.cache

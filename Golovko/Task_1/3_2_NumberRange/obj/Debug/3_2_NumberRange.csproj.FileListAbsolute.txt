@@ -1,0 +1,10 @@
+C:\Users\Головко\Desktop\Task_1_Basics\3_2_NumberRange\bin\Debug\3_2_NumberRange.exe.config
+C:\Users\Головко\Desktop\Task_1_Basics\3_2_NumberRange\bin\Debug\3_2_NumberRange.exe
+C:\Users\Головко\Desktop\Task_1_Basics\3_2_NumberRange\bin\Debug\3_2_NumberRange.pdb
+C:\Users\Головко\Desktop\Task_1_Basics\3_2_NumberRange\obj\Debug\3_2_NumberRange.exe
+C:\Users\Головко\Desktop\Task_1_Basics\3_2_NumberRange\obj\Debug\3_2_NumberRange.pdb
+C:\Users\Головко\CSharpCourse-2016\Golovko\Task_1\3_2_NumberRange\bin\Debug\3_2_NumberRange.exe.config
+C:\Users\Головко\CSharpCourse-2016\Golovko\Task_1\3_2_NumberRange\bin\Debug\3_2_NumberRange.exe
+C:\Users\Головко\CSharpCourse-2016\Golovko\Task_1\3_2_NumberRange\bin\Debug\3_2_NumberRange.pdb
+C:\Users\Головко\CSharpCourse-2016\Golovko\Task_1\3_2_NumberRange\obj\Debug\3_2_NumberRange.exe
+C:\Users\Головко\CSharpCourse-2016\Golovko\Task_1\3_2_NumberRange\obj\Debug\3_2_NumberRange.pdb

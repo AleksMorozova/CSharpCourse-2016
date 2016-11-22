@@ -1,0 +1,6 @@
+C:\Users\Головко\CSharpCourse-2016\Golovko\Task_2\Invoice\bin\Debug\Invoice.exe.config
+C:\Users\Головко\CSharpCourse-2016\Golovko\Task_2\Invoice\bin\Debug\Invoice.exe
+C:\Users\Головко\CSharpCourse-2016\Golovko\Task_2\Invoice\bin\Debug\Invoice.pdb
+C:\Users\Головко\CSharpCourse-2016\Golovko\Task_2\Invoice\obj\Debug\8_Invoice.csprojResolveAssemblyReference.cache
+C:\Users\Головко\CSharpCourse-2016\Golovko\Task_2\Invoice\obj\Debug\Invoice.exe
+C:\Users\Головко\CSharpCourse-2016\Golovko\Task_2\Invoice\obj\Debug\Invoice.pdb

@@ -1,0 +1,10 @@
+C:\Users\Головко\Desktop\Task_1_Basics\3_3_WhatNumber\bin\Debug\3_3_WhatNumber.exe.config
+C:\Users\Головко\Desktop\Task_1_Basics\3_3_WhatNumber\bin\Debug\3_3_WhatNumber.exe
+C:\Users\Головко\Desktop\Task_1_Basics\3_3_WhatNumber\bin\Debug\3_3_WhatNumber.pdb
+C:\Users\Головко\Desktop\Task_1_Basics\3_3_WhatNumber\obj\Debug\3_3_WhatNumber.exe
+C:\Users\Головко\Desktop\Task_1_Basics\3_3_WhatNumber\obj\Debug\3_3_WhatNumber.pdb
+C:\Users\Головко\CSharpCourse-2016\Golovko\Task_1\3_3_WhatNumber\bin\Debug\3_3_WhatNumber.exe.config
+C:\Users\Головко\CSharpCourse-2016\Golovko\Task_1\3_3_WhatNumber\bin\Debug\3_3_WhatNumber.exe
+C:\Users\Головко\CSharpCourse-2016\Golovko\Task_1\3_3_WhatNumber\bin\Debug\3_3_WhatNumber.pdb
+C:\Users\Головко\CSharpCourse-2016\Golovko\Task_1\3_3_WhatNumber\obj\Debug\3_3_WhatNumber.exe
+C:\Users\Головко\CSharpCourse-2016\Golovko\Task_1\3_3_WhatNumber\obj\Debug\3_3_WhatNumber.pdb

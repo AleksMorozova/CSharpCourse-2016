@@ -1,0 +1,6 @@
+C:\Users\Головко\CSharpCourse-2016\Golovko\Task_2\3_Book\bin\Debug\3_Book.exe.config
+C:\Users\Головко\CSharpCourse-2016\Golovko\Task_2\3_Book\bin\Debug\3_Book.exe
+C:\Users\Головко\CSharpCourse-2016\Golovko\Task_2\3_Book\bin\Debug\3_Book.pdb
+C:\Users\Головко\CSharpCourse-2016\Golovko\Task_2\3_Book\obj\Debug\3_Book.csprojResolveAssemblyReference.cache
+C:\Users\Головко\CSharpCourse-2016\Golovko\Task_2\3_Book\obj\Debug\3_Book.exe
+C:\Users\Головко\CSharpCourse-2016\Golovko\Task_2\3_Book\obj\Debug\3_Book.pdb

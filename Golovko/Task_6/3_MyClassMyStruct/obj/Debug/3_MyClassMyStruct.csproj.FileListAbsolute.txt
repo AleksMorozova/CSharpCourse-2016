@@ -1,0 +1,6 @@
+c:\users\головко\documents\visual studio 2015\Projects\Task_6\3_MyClassMyStruct\bin\Debug\3_MyClassMyStruct.exe.config
+c:\users\головко\documents\visual studio 2015\Projects\Task_6\3_MyClassMyStruct\bin\Debug\3_MyClassMyStruct.exe
+c:\users\головко\documents\visual studio 2015\Projects\Task_6\3_MyClassMyStruct\bin\Debug\3_MyClassMyStruct.pdb
+c:\users\головко\documents\visual studio 2015\Projects\Task_6\3_MyClassMyStruct\obj\Debug\3_MyClassMyStruct.exe
+c:\users\головко\documents\visual studio 2015\Projects\Task_6\3_MyClassMyStruct\obj\Debug\3_MyClassMyStruct.pdb
+c:\users\головко\documents\visual studio 2015\Projects\Task_6\3_MyClassMyStruct\obj\Debug\3_MyClassMyStruct.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+c:\users\головко\documents\visual studio 2015\Projects\Task_8\1_FactoryMethod\bin\Debug\1_FactoryMethod.exe.config
+c:\users\головко\documents\visual studio 2015\Projects\Task_8\1_FactoryMethod\bin\Debug\1_FactoryMethod.exe
+c:\users\головко\documents\visual studio 2015\Projects\Task_8\1_FactoryMethod\bin\Debug\1_FactoryMethod.pdb
+c:\users\головко\documents\visual studio 2015\Projects\Task_8\1_FactoryMethod\obj\Debug\1_FactoryMethod.exe
+c:\users\головко\documents\visual studio 2015\Projects\Task_8\1_FactoryMethod\obj\Debug\1_FactoryMethod.pdb

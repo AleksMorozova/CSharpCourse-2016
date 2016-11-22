@@ -1,0 +1,6 @@
+C:\Users\Головко\CSharpCourse-2016\Golovko\Task_2\5_User\bin\Debug\5_User.exe.config
+C:\Users\Головко\CSharpCourse-2016\Golovko\Task_2\5_User\bin\Debug\5_User.exe
+C:\Users\Головко\CSharpCourse-2016\Golovko\Task_2\5_User\bin\Debug\5_User.pdb
+C:\Users\Головко\CSharpCourse-2016\Golovko\Task_2\5_User\obj\Debug\5_User.exe
+C:\Users\Головко\CSharpCourse-2016\Golovko\Task_2\5_User\obj\Debug\5_User.pdb
+C:\Users\Головко\CSharpCourse-2016\Golovko\Task_2\5_User\obj\Debug\5_User.csprojResolveAssemblyReference.cache

@@ -1,0 +1,12 @@
+c:\users\головко\documents\visual studio 2015\Projects\Task_4\2_Player\bin\Debug\2_Player.exe.config
+c:\users\головко\documents\visual studio 2015\Projects\Task_4\2_Player\bin\Debug\2_Player.exe
+c:\users\головко\documents\visual studio 2015\Projects\Task_4\2_Player\bin\Debug\2_Player.pdb
+c:\users\головко\documents\visual studio 2015\Projects\Task_4\2_Player\obj\Debug\2_Player.csprojResolveAssemblyReference.cache
+c:\users\головко\documents\visual studio 2015\Projects\Task_4\2_Player\obj\Debug\2_Player.exe
+c:\users\головко\documents\visual studio 2015\Projects\Task_4\2_Player\obj\Debug\2_Player.pdb
+C:\Users\Головко\CSharpCourse-2016\Golovko\Task_4\2_Player\bin\Debug\2_Player.exe.config
+C:\Users\Головко\CSharpCourse-2016\Golovko\Task_4\2_Player\obj\Debug\2_Player.exe
+C:\Users\Головко\CSharpCourse-2016\Golovko\Task_4\2_Player\obj\Debug\2_Player.pdb
+C:\Users\Головко\CSharpCourse-2016\Golovko\Task_4\2_Player\bin\Debug\2_Player.exe
+C:\Users\Головко\CSharpCourse-2016\Golovko\Task_4\2_Player\bin\Debug\2_Player.pdb
+C:\Users\Головко\CSharpCourse-2016\Golovko\Task_4\2_Player\obj\Debug\2_Player.csprojResolveAssemblyReference.cache

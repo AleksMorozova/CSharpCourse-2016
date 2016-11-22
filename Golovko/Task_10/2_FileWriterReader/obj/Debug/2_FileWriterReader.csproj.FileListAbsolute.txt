@@ -1,0 +1,6 @@
+c:\users\головко\documents\visual studio 2015\Projects\Task_10\2_FileWriterReader\bin\Debug\2_FileWriterReader.exe.config
+c:\users\головко\documents\visual studio 2015\Projects\Task_10\2_FileWriterReader\bin\Debug\2_FileWriterReader.exe
+c:\users\головко\documents\visual studio 2015\Projects\Task_10\2_FileWriterReader\bin\Debug\2_FileWriterReader.pdb
+c:\users\головко\documents\visual studio 2015\Projects\Task_10\2_FileWriterReader\obj\Debug\2_FileWriterReader.exe
+c:\users\головко\documents\visual studio 2015\Projects\Task_10\2_FileWriterReader\obj\Debug\2_FileWriterReader.pdb
+c:\users\головко\documents\visual studio 2015\Projects\Task_10\2_FileWriterReader\obj\Debug\2_FileWriterReader.csprojResolveAssemblyReference.cache

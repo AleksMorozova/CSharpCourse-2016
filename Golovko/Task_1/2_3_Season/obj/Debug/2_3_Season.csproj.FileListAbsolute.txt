@@ -1,0 +1,16 @@
+c:\users\головко\documents\visual studio 2015\Projects\Task_1_Basics\2_3_Season\bin\Debug\2_3_Season.exe.config
+c:\users\головко\documents\visual studio 2015\Projects\Task_1_Basics\2_3_Season\bin\Debug\2_3_Season.exe
+c:\users\головко\documents\visual studio 2015\Projects\Task_1_Basics\2_3_Season\bin\Debug\2_3_Season.pdb
+c:\users\головко\documents\visual studio 2015\Projects\Task_1_Basics\2_3_Season\obj\Debug\2_3_Season.exe
+c:\users\головко\documents\visual studio 2015\Projects\Task_1_Basics\2_3_Season\obj\Debug\2_3_Season.pdb
+C:\Users\Головко\Desktop\Task_1_Basics\2_3_Season\bin\Debug\2_3_Season.exe.config
+C:\Users\Головко\Desktop\Task_1_Basics\2_3_Season\bin\Debug\2_3_Season.exe
+C:\Users\Головко\Desktop\Task_1_Basics\2_3_Season\bin\Debug\2_3_Season.pdb
+C:\Users\Головко\Desktop\Task_1_Basics\2_3_Season\obj\Debug\2_3_Season.exe
+C:\Users\Головко\Desktop\Task_1_Basics\2_3_Season\obj\Debug\2_3_Season.pdb
+C:\Users\Головко\CSharpCourse-2016\Golovko\Task_1\2_3_Season\bin\Debug\2_3_Season.exe.config
+C:\Users\Головко\CSharpCourse-2016\Golovko\Task_1\2_3_Season\bin\Debug\2_3_Season.exe
+C:\Users\Головко\CSharpCourse-2016\Golovko\Task_1\2_3_Season\bin\Debug\2_3_Season.pdb
+C:\Users\Головко\CSharpCourse-2016\Golovko\Task_1\2_3_Season\obj\Debug\2_3_Season.csprojResolveAssemblyReference.cache
+C:\Users\Головко\CSharpCourse-2016\Golovko\Task_1\2_3_Season\obj\Debug\2_3_Season.exe
+C:\Users\Головко\CSharpCourse-2016\Golovko\Task_1\2_3_Season\obj\Debug\2_3_Season.pdb

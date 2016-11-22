@@ -1,0 +1,5 @@
+c:\users\головко\documents\visual studio 2015\Projects\Task_8\2_MyList\bin\Debug\2_MyList.exe.config
+c:\users\головко\documents\visual studio 2015\Projects\Task_8\2_MyList\bin\Debug\2_MyList.exe
+c:\users\головко\documents\visual studio 2015\Projects\Task_8\2_MyList\bin\Debug\2_MyList.pdb
+c:\users\головко\documents\visual studio 2015\Projects\Task_8\2_MyList\obj\Debug\2_MyList.exe
+c:\users\головко\documents\visual studio 2015\Projects\Task_8\2_MyList\obj\Debug\2_MyList.pdb

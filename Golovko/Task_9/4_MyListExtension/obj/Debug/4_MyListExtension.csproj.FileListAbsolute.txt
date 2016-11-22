@@ -1,0 +1,8 @@
+c:\users\головко\documents\visual studio 2015\Projects\Task_9\4_MyListExtension\bin\Debug\4_MyListExtension.exe.config
+c:\users\головко\documents\visual studio 2015\Projects\Task_9\4_MyListExtension\bin\Debug\4_MyListExtension.exe
+c:\users\головко\documents\visual studio 2015\Projects\Task_9\4_MyListExtension\bin\Debug\4_MyListExtension.pdb
+c:\users\головко\documents\visual studio 2015\Projects\Task_9\4_MyListExtension\bin\Debug\2_MyList.exe
+c:\users\головко\documents\visual studio 2015\Projects\Task_9\4_MyListExtension\bin\Debug\2_MyList.pdb
+c:\users\головко\documents\visual studio 2015\Projects\Task_9\4_MyListExtension\obj\Debug\4_MyListExtension.csprojResolveAssemblyReference.cache
+c:\users\головко\documents\visual studio 2015\Projects\Task_9\4_MyListExtension\obj\Debug\4_MyListExtension.exe
+c:\users\головко\documents\visual studio 2015\Projects\Task_9\4_MyListExtension\obj\Debug\4_MyListExtension.pdb

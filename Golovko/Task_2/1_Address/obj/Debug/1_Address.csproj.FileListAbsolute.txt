@@ -1,0 +1,12 @@
+c:\users\головко\documents\visual studio 2015\Projects\Task_2\1_Address\bin\Debug\1_Address.exe.config
+c:\users\головко\documents\visual studio 2015\Projects\Task_2\1_Address\bin\Debug\1_Address.exe
+c:\users\головко\documents\visual studio 2015\Projects\Task_2\1_Address\bin\Debug\1_Address.pdb
+c:\users\головко\documents\visual studio 2015\Projects\Task_2\1_Address\obj\Debug\1_Address.csprojResolveAssemblyReference.cache
+c:\users\головко\documents\visual studio 2015\Projects\Task_2\1_Address\obj\Debug\1_Address.exe
+c:\users\головко\documents\visual studio 2015\Projects\Task_2\1_Address\obj\Debug\1_Address.pdb
+C:\Users\Головко\CSharpCourse-2016\Golovko\Task_2\1_Address\bin\Debug\1_Address.exe.config
+C:\Users\Головко\CSharpCourse-2016\Golovko\Task_2\1_Address\obj\Debug\1_Address.exe
+C:\Users\Головко\CSharpCourse-2016\Golovko\Task_2\1_Address\obj\Debug\1_Address.pdb
+C:\Users\Головко\CSharpCourse-2016\Golovko\Task_2\1_Address\bin\Debug\1_Address.exe
+C:\Users\Головко\CSharpCourse-2016\Golovko\Task_2\1_Address\bin\Debug\1_Address.pdb
+C:\Users\Головко\CSharpCourse-2016\Golovko\Task_2\1_Address\obj\Debug\1_Address.csprojResolveAssemblyReference.cache

@@ -1,0 +1,42 @@
+﻿<Window x:Class="Client.Views.ProductsWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Client.Views"
+        xmlns:client="clr-namespace:Client"
+        xmlns:conv="clr-namespace:Client.Converters"
+        mc:Ignorable="d"
+        Title="Продукты" WindowStartupLocation="CenterScreen">
+    <Window.Resources>
+        <client:ViewModelLocator x:Key="Locator"></client:ViewModelLocator>
+        <conv:LocationConverter x:Key="LocationConverter"></conv:LocationConverter>
+    </Window.Resources>
+    <Grid DataContext="{Binding ProductsViewModel, Mode=OneWay, Source={StaticResource Locator}}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <ToolBarPanel Background="#FFF1F1F1">
+            <ToolBar Background="#FFF1F1F1" ToolBarTray.IsLocked="True">
+                <Button Padding="16,0" Command="{Binding OpenAddProductWindowCommand, Mode=OneWay}">Добавить</Button>
+                <Button Padding="16,0" Command="{Binding OpenEditProductWindowCommand, Mode=OneWay}">Изменить</Button>
+                <Button Padding="16,0" Command="{Binding RemoveProductCommand, Mode=OneWay}">Удалить</Button>
+            </ToolBar>
+        </ToolBarPanel>
+        
+        
+        <ListView Grid.Row="1" ItemsSource="{Binding Products}" SelectedItem="{Binding SelectedProduct, UpdateSourceTrigger=PropertyChanged}">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Id" Width="120" DisplayMemberBinding="{Binding Id}" />
+                    <GridViewColumn Header="Наименование" Width="150" DisplayMemberBinding="{Binding Name}" />
+                    <GridViewColumn Header="Цена" Width="150" DisplayMemberBinding="{Binding Price}" />
+                    <GridViewColumn Header="Количество" Width="150" DisplayMemberBinding="{Binding Quantity}" />
+                    <GridViewColumn Header="Место нахождения" Width="150" DisplayMemberBinding="{Binding Location, Converter={StaticResource LocationConverter}}" />
+                </GridView>
+            </ListView.View>
+        </ListView>
+    </Grid>
+</Window>

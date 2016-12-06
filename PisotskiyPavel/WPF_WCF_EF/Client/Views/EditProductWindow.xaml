@@ -1,0 +1,56 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Client.Views"
+        xmlns:client="clr-namespace:Client"
+        xmlns:conv="clr-namespace:Client.Converters"
+        x:Class="Client.Views.EditProductWindow"
+        mc:Ignorable="d"
+        Title="Изменить продукт" Height="300" Width="500" ResizeMode="NoResize" WindowStartupLocation="CenterOwner">
+    <Window.Resources>
+        <client:ViewModelLocator x:Key="Locator"/>
+        <conv:LocationCollectionConverter x:Key="LocationCollectionConverter"></conv:LocationCollectionConverter>
+        <conv:LocationConverter x:Key="LocationConverter"></conv:LocationConverter>
+    </Window.Resources>
+    <Window.DataContext>
+        <Binding Mode="OneWay" Path="EditProductViewModel" Source="{StaticResource Locator}"/>
+    </Window.DataContext>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Grid.Row="0" Grid.Column="0" Margin="10,5"><Run Text="Наименование продукта:"/></TextBlock>
+        <TextBox Grid.Row="0" Grid.Column="1" Margin="10,5" Text="{Binding SelectedProduct.Name}"/>
+
+        <TextBlock Grid.Row="1" Grid.Column="0" Margin="10,5"><Run Text="Цена продукта:"/></TextBlock>
+        <TextBox Grid.Row="1" Grid.Column="1" Margin="10,5" Text="{Binding SelectedProduct.Price}"/>
+
+        <TextBlock Grid.Row="2" Grid.Column="0" Margin="10,5"><Run Text="Количество:"/></TextBlock>
+        <TextBox Grid.Row="2" Grid.Column="1" Margin="10,5" Text="{Binding SelectedProduct.Quantity}"/>
+
+        <TextBlock Grid.Row="3" Grid.Column="0" Margin="10,5"><Run Text="Место нахождения:"/></TextBlock>
+        <ComboBox Grid.Row="3" Grid.Column="1" Margin="10,5" ItemsSource="{Binding Locations, Converter={StaticResource LocationCollectionConverter}}" SelectedIndex="0" SelectedItem="{Binding SelectedProduct.Location, Converter={StaticResource LocationConverter}}"/>
+
+        <Grid Grid.Column="1" Grid.Row="4" VerticalAlignment="Bottom" HorizontalAlignment="Right">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+
+            <Button Grid.Column="0" Padding="16,2" Margin="5" Command="{Binding EditProductCommand, Mode=OneWay}" Content="Сохранить"/>
+            <Button Grid.Column="1" Padding="16,2" Margin="5" Command="{Binding CloseEditProductWindowCommand, Mode=OneWay}" Content="Отмена"/>
+        </Grid>
+
+    </Grid>
+</Window>

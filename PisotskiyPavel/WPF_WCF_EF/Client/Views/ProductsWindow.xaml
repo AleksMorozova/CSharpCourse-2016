@@ -6,13 +6,24 @@
         xmlns:local="clr-namespace:Client.Views"
         xmlns:client="clr-namespace:Client"
         xmlns:conv="clr-namespace:Client.Converters"
+        xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity"
         mc:Ignorable="d"
         Title="Продукты" WindowStartupLocation="CenterScreen">
     <Window.Resources>
         <client:ViewModelLocator x:Key="Locator"></client:ViewModelLocator>
         <conv:LocationConverter x:Key="LocationConverter"></conv:LocationConverter>
     </Window.Resources>
-    <Grid DataContext="{Binding ProductsViewModel, Mode=OneWay, Source={StaticResource Locator}}">
+    <Window.DataContext>
+        <Binding Mode="OneWay" Path="ProductsViewModel" Source="{StaticResource Locator}"/>
+    </Window.DataContext>
+
+    <i:Interaction.Triggers>
+        <i:EventTrigger EventName="Loaded">
+            <i:InvokeCommandAction Command="{Binding WindowLoadedCommand, Mode=OneWay}"/>
+        </i:EventTrigger>
+    </i:Interaction.Triggers>
+
+    <Grid>
         <Grid.RowDefinitions>
             <RowDefinition Height="Auto"></RowDefinition>
             <RowDefinition></RowDefinition>

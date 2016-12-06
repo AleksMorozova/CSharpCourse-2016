@@ -18,13 +18,13 @@ namespace Client.ViewModels
         public ProductsViewModel(ProductService.IProductService productService)
         {
             this.productService = productService;
-            UpdateData();
         }
 
-        private void UpdateData()
+        private async void UpdateData()
         {
             products.Clear();
-            foreach (Product product in productService.GetProductList())
+            IEnumerable<Product> productList = await productService.GetProductListAsync();
+            foreach (Product product in productList)
             {
                 products.Add(product);
             }
@@ -124,8 +124,26 @@ namespace Client.ViewModels
             Messenger.Default.Send(product, Messege.ShowEditProductWindow);
             UpdateData();
         }
-        
+
         #endregion
 
+        #region WindowLoadedCommand
+        private RelayCommand windowLoadedCommand;
+
+        public ICommand WindowLoadedCommand
+        {
+            get
+            {
+                if (windowLoadedCommand == null)
+                    windowLoadedCommand = new RelayCommand(WindowLoadedCommandExecute);
+                return windowLoadedCommand;
+            }
+        }
+
+        private void WindowLoadedCommandExecute(object obj)
+        {
+            UpdateData();
+        }
+        #endregion
     }
 }

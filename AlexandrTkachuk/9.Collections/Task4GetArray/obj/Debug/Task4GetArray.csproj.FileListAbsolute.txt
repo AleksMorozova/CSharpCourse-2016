@@ -1,0 +1,6 @@
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\9.Collections\Task4GetArray\bin\Debug\Task4GetArray.exe.config
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\9.Collections\Task4GetArray\obj\Debug\Task4GetArray.csprojResolveAssemblyReference.cache
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\9.Collections\Task4GetArray\bin\Debug\Task4GetArray.exe
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\9.Collections\Task4GetArray\bin\Debug\Task4GetArray.pdb
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\9.Collections\Task4GetArray\obj\Debug\Task4GetArray.exe
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\9.Collections\Task4GetArray\obj\Debug\Task4GetArray.pdb

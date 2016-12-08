@@ -1,0 +1,6 @@
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\7.Delegate\Task1AverageValue\bin\Debug\Task1AverageValue.exe.config
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\7.Delegate\Task1AverageValue\obj\Debug\Task1AverageValue.csprojResolveAssemblyReference.cache
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\7.Delegate\Task1AverageValue\bin\Debug\Task1AverageValue.exe
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\7.Delegate\Task1AverageValue\bin\Debug\Task1AverageValue.pdb
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\7.Delegate\Task1AverageValue\obj\Debug\Task1AverageValue.exe
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\7.Delegate\Task1AverageValue\obj\Debug\Task1AverageValue.pdb

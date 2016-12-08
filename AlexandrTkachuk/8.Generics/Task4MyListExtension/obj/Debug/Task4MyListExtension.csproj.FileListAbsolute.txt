@@ -1,0 +1,6 @@
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\8.Generics\Task4MyListExtension\bin\Debug\Task4MyListExtension.exe.config
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\8.Generics\Task4MyListExtension\bin\Debug\Task4MyListExtension.exe
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\8.Generics\Task4MyListExtension\bin\Debug\Task4MyListExtension.pdb
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\8.Generics\Task4MyListExtension\obj\Debug\Task4MyListExtension.exe
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\8.Generics\Task4MyListExtension\obj\Debug\Task4MyListExtension.pdb
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\8.Generics\Task4MyListExtension\obj\Debug\Task4MyListExtension.csprojResolveAssemblyReference.cache

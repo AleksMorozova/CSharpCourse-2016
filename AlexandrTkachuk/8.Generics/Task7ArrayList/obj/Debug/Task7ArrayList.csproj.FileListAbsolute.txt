@@ -1,0 +1,5 @@
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\8.Generics\Task7ArrayList\bin\Debug\Task7ArrayList.exe.config
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\8.Generics\Task7ArrayList\bin\Debug\Task7ArrayList.exe
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\8.Generics\Task7ArrayList\bin\Debug\Task7ArrayList.pdb
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\8.Generics\Task7ArrayList\obj\Debug\Task7ArrayList.exe
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\8.Generics\Task7ArrayList\obj\Debug\Task7ArrayList.pdb

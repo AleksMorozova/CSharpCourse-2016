@@ -1,0 +1,6 @@
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\8.Generics\Task5CarCollection\bin\Debug\Task5CarCollection.exe.config
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\8.Generics\Task5CarCollection\bin\Debug\Task5CarCollection.exe
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\8.Generics\Task5CarCollection\bin\Debug\Task5CarCollection.pdb
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\8.Generics\Task5CarCollection\obj\Debug\Task5CarCollection.csprojResolveAssemblyReference.cache
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\8.Generics\Task5CarCollection\obj\Debug\Task5CarCollection.exe
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\8.Generics\Task5CarCollection\obj\Debug\Task5CarCollection.pdb

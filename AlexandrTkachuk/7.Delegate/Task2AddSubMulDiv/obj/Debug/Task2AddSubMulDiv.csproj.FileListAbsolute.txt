@@ -1,0 +1,5 @@
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\7.Delegate\Task2AddSubMulDiv\bin\Debug\Task2AddSubMulDiv.exe.config
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\7.Delegate\Task2AddSubMulDiv\bin\Debug\Task2AddSubMulDiv.exe
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\7.Delegate\Task2AddSubMulDiv\bin\Debug\Task2AddSubMulDiv.pdb
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\7.Delegate\Task2AddSubMulDiv\obj\Debug\Task2AddSubMulDiv.exe
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\7.Delegate\Task2AddSubMulDiv\obj\Debug\Task2AddSubMulDiv.pdb

@@ -1,0 +1,6 @@
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\СonditionalConstructions\Task7IsDigitSimple\bin\Debug\Task7IsDigitSimple.exe.config
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\СonditionalConstructions\Task7IsDigitSimple\bin\Debug\Task7IsDigitSimple.exe
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\СonditionalConstructions\Task7IsDigitSimple\bin\Debug\Task7IsDigitSimple.pdb
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\СonditionalConstructions\Task7IsDigitSimple\obj\Debug\Task7IsDigitSimple.csprojResolveAssemblyReference.cache
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\СonditionalConstructions\Task7IsDigitSimple\obj\Debug\Task7IsDigitSimple.exe
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\СonditionalConstructions\Task7IsDigitSimple\obj\Debug\Task7IsDigitSimple.pdb

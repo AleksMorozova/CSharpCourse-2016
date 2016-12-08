@@ -1,0 +1,5 @@
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\9.Collections\Task3MyDictionary\bin\Debug\Task3MyDictionary.exe.config
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\9.Collections\Task3MyDictionary\bin\Debug\Task3MyDictionary.exe
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\9.Collections\Task3MyDictionary\bin\Debug\Task3MyDictionary.pdb
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\9.Collections\Task3MyDictionary\obj\Debug\Task3MyDictionary.exe
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\9.Collections\Task3MyDictionary\obj\Debug\Task3MyDictionary.pdb

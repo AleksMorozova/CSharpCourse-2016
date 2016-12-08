@@ -1,0 +1,6 @@
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\2.Classes\2.Classes\Task4PointAndFigure\bin\Debug\Task4PointAndFigure.exe.config
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\2.Classes\2.Classes\Task4PointAndFigure\bin\Debug\Task4PointAndFigure.exe
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\2.Classes\2.Classes\Task4PointAndFigure\bin\Debug\Task4PointAndFigure.pdb
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\2.Classes\2.Classes\Task4PointAndFigure\obj\Debug\Task4PointAndFigure.csprojResolveAssemblyReference.cache
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\2.Classes\2.Classes\Task4PointAndFigure\obj\Debug\Task4PointAndFigure.exe
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\2.Classes\2.Classes\Task4PointAndFigure\obj\Debug\Task4PointAndFigure.pdb

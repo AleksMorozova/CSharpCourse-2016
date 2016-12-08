@@ -1,0 +1,6 @@
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\7.Delegate\Task3ArrayOfDelegates\bin\Debug\Task3ArrayOfDelegates.exe.config
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\7.Delegate\Task3ArrayOfDelegates\obj\Debug\Task3ArrayOfDelegates.csprojResolveAssemblyReference.cache
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\7.Delegate\Task3ArrayOfDelegates\bin\Debug\Task3ArrayOfDelegates.exe
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\7.Delegate\Task3ArrayOfDelegates\bin\Debug\Task3ArrayOfDelegates.pdb
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\7.Delegate\Task3ArrayOfDelegates\obj\Debug\Task3ArrayOfDelegates.exe
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\7.Delegate\Task3ArrayOfDelegates\obj\Debug\Task3ArrayOfDelegates.pdb

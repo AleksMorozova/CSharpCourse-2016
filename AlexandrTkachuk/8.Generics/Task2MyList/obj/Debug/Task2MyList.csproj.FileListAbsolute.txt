@@ -1,0 +1,6 @@
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\8.Generics\Task2MyList\bin\Debug\Task2MyList.exe.config
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\8.Generics\Task2MyList\bin\Debug\Task2MyList.exe
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\8.Generics\Task2MyList\bin\Debug\Task2MyList.pdb
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\8.Generics\Task2MyList\obj\Debug\Task2MyList.csprojResolveAssemblyReference.cache
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\8.Generics\Task2MyList\obj\Debug\Task2MyList.exe
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\8.Generics\Task2MyList\obj\Debug\Task2MyList.pdb

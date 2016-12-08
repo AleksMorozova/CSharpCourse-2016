@@ -1,0 +1,6 @@
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\2.Classes\2.Classes\Task7ShowEmployeeSalary\bin\Debug\Task7ShowEmployeeSalary.exe.config
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\2.Classes\2.Classes\Task7ShowEmployeeSalary\bin\Debug\Task7ShowEmployeeSalary.exe
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\2.Classes\2.Classes\Task7ShowEmployeeSalary\bin\Debug\Task7ShowEmployeeSalary.pdb
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\2.Classes\2.Classes\Task7ShowEmployeeSalary\obj\Debug\Task7ShowEmployeeSalary.csprojResolveAssemblyReference.cache
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\2.Classes\2.Classes\Task7ShowEmployeeSalary\obj\Debug\Task7ShowEmployeeSalary.exe
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\2.Classes\2.Classes\Task7ShowEmployeeSalary\obj\Debug\Task7ShowEmployeeSalary.pdb

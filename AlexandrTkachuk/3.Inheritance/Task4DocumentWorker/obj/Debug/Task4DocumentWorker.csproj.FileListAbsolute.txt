@@ -1,0 +1,6 @@
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\2.Classes\3.Inheritance\Task4DocumentWorker\bin\Debug\Task4DocumentWorker.exe.config
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\2.Classes\3.Inheritance\Task4DocumentWorker\obj\Debug\Task4DocumentWorker.csprojResolveAssemblyReference.cache
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\2.Classes\3.Inheritance\Task4DocumentWorker\bin\Debug\Task4DocumentWorker.exe
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\2.Classes\3.Inheritance\Task4DocumentWorker\bin\Debug\Task4DocumentWorker.pdb
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\2.Classes\3.Inheritance\Task4DocumentWorker\obj\Debug\Task4DocumentWorker.exe
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\2.Classes\3.Inheritance\Task4DocumentWorker\obj\Debug\Task4DocumentWorker.pdb

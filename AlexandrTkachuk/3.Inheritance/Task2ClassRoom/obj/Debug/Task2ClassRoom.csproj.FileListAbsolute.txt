@@ -1,0 +1,6 @@
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\2.Classes\3.Inheritance\Task2ClassRoom\bin\Debug\Task2ClassRoom.exe.config
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\2.Classes\3.Inheritance\Task2ClassRoom\bin\Debug\Task2ClassRoom.exe
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\2.Classes\3.Inheritance\Task2ClassRoom\bin\Debug\Task2ClassRoom.pdb
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\2.Classes\3.Inheritance\Task2ClassRoom\obj\Debug\Task2ClassRoom.exe
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\2.Classes\3.Inheritance\Task2ClassRoom\obj\Debug\Task2ClassRoom.pdb
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\2.Classes\3.Inheritance\Task2ClassRoom\obj\Debug\Task2ClassRoom.csprojResolveAssemblyReference.cache

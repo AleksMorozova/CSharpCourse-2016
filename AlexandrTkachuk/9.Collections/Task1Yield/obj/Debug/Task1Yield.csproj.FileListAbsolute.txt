@@ -1,0 +1,6 @@
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\9.Collections\Task1Yield\bin\Debug\Task1Yield.exe.config
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\9.Collections\Task1Yield\bin\Debug\Task1Yield.exe
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\9.Collections\Task1Yield\bin\Debug\Task1Yield.pdb
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\9.Collections\Task1Yield\obj\Debug\Task1Yield.csprojResolveAssemblyReference.cache
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\9.Collections\Task1Yield\obj\Debug\Task1Yield.exe
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\9.Collections\Task1Yield\obj\Debug\Task1Yield.pdb

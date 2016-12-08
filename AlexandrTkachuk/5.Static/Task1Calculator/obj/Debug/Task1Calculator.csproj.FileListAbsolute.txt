@@ -1,0 +1,6 @@
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\5.Static\Task1Calculator\bin\Debug\Task1Calculator.exe.config
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\5.Static\Task1Calculator\bin\Debug\Task1Calculator.exe
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\5.Static\Task1Calculator\bin\Debug\Task1Calculator.pdb
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\5.Static\Task1Calculator\obj\Debug\Task1Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\5.Static\Task1Calculator\obj\Debug\Task1Calculator.exe
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\5.Static\Task1Calculator\obj\Debug\Task1Calculator.pdb

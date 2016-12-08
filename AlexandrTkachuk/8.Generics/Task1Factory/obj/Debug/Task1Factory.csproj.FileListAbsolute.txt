@@ -1,0 +1,6 @@
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\8.Generics\Task1Factory\bin\Debug\Task1Factory.exe.config
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\8.Generics\Task1Factory\bin\Debug\Task1Factory.exe
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\8.Generics\Task1Factory\bin\Debug\Task1Factory.pdb
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\8.Generics\Task1Factory\obj\Debug\Task1Factory.csprojResolveAssemblyReference.cache
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\8.Generics\Task1Factory\obj\Debug\Task1Factory.exe
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\8.Generics\Task1Factory\obj\Debug\Task1Factory.pdb

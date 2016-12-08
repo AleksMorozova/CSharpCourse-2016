@@ -1,0 +1,6 @@
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\2.Classes\3.Inheritance\Task3Vehicle\bin\Debug\Task3Vehicle.exe.config
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\2.Classes\3.Inheritance\Task3Vehicle\bin\Debug\Task3Vehicle.exe
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\2.Classes\3.Inheritance\Task3Vehicle\bin\Debug\Task3Vehicle.pdb
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\2.Classes\3.Inheritance\Task3Vehicle\obj\Debug\Task3Vehicle.csprojResolveAssemblyReference.cache
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\2.Classes\3.Inheritance\Task3Vehicle\obj\Debug\Task3Vehicle.exe
+C:\Users\Alexandr\Documents\Visual Studio 2013\Projects\C#\ISD\2.Classes\3.Inheritance\Task3Vehicle\obj\Debug\Task3Vehicle.pdb

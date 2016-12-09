@@ -1,0 +1,42 @@
+c:\users\руслан\documents\visual studio 2015\Projects\MyWPFTech\MyWPFTech\bin\Debug\MyWPFTech.exe.config
+c:\users\руслан\documents\visual studio 2015\Projects\MyWPFTech\MyWPFTech\bin\Debug\MyWPFTech.exe
+c:\users\руслан\documents\visual studio 2015\Projects\MyWPFTech\MyWPFTech\bin\Debug\MyWPFTech.pdb
+c:\users\руслан\documents\visual studio 2015\Projects\MyWPFTech\MyWPFTech\obj\Debug\MainWindow.g.cs
+c:\users\руслан\documents\visual studio 2015\Projects\MyWPFTech\MyWPFTech\obj\Debug\App.g.cs
+c:\users\руслан\documents\visual studio 2015\Projects\MyWPFTech\MyWPFTech\obj\Debug\MyWPFTech_MarkupCompile.cache
+c:\users\руслан\documents\visual studio 2015\Projects\MyWPFTech\MyWPFTech\obj\Debug\MyWPFTech_MarkupCompile.lref
+c:\users\руслан\documents\visual studio 2015\Projects\MyWPFTech\MyWPFTech\obj\Debug\MainWindow.baml
+c:\users\руслан\documents\visual studio 2015\Projects\MyWPFTech\MyWPFTech\obj\Debug\MyWPFTech.g.resources
+c:\users\руслан\documents\visual studio 2015\Projects\MyWPFTech\MyWPFTech\obj\Debug\MyWPFTech.Properties.Resources.resources
+c:\users\руслан\documents\visual studio 2015\Projects\MyWPFTech\MyWPFTech\obj\Debug\MyWPFTech.csproj.GenerateResource.Cache
+c:\users\руслан\documents\visual studio 2015\Projects\MyWPFTech\MyWPFTech\obj\Debug\MyWPFTech.exe
+c:\users\руслан\documents\visual studio 2015\Projects\MyWPFTech\MyWPFTech\obj\Debug\MyWPFTech.pdb
+c:\users\руслан\documents\visual studio 2015\Projects\MyWPFTech\MyWPFTech\obj\Debug\MyWPFTech.csprojResolveAssemblyReference.cache
+D:\Игры\C#\Курсы\MyWPFTech\MyWPFTech\bin\Debug\MyWPFTech.exe.config
+D:\Игры\C#\Курсы\MyWPFTech\MyWPFTech\obj\Debug\MyWPFTech.exe
+D:\Игры\C#\Курсы\MyWPFTech\MyWPFTech\obj\Debug\MyWPFTech.pdb
+D:\Игры\C#\Курсы\MyWPFTech\MyWPFTech\bin\Debug\MyWPFTech.exe
+D:\Игры\C#\Курсы\MyWPFTech\MyWPFTech\bin\Debug\MyWPFTech.pdb
+D:\Игры\C#\Курсы\MyWPFTech\MyWPFTech\obj\Debug\MyWPFTech.csprojResolveAssemblyReference.cache
+D:\Игры\C#\Курсы\MyWPFTech\MyWPFTech\obj\Debug\MainWindow.g.cs
+D:\Игры\C#\Курсы\MyWPFTech\MyWPFTech\obj\Debug\App.g.cs
+D:\Игры\C#\Курсы\MyWPFTech\MyWPFTech\obj\Debug\MyWPFTech_MarkupCompile.cache
+D:\Игры\C#\Курсы\MyWPFTech\MyWPFTech\obj\Debug\MyWPFTech_MarkupCompile.lref
+D:\Игры\C#\Курсы\MyWPFTech\MyWPFTech\obj\Debug\MainWindow.baml
+D:\Игры\C#\Курсы\MyWPFTech\MyWPFTech\obj\Debug\MyWPFTech.g.resources
+D:\Игры\C#\Курсы\MyWPFTech\MyWPFTech\obj\Debug\MyWPFTech.Properties.Resources.resources
+D:\Игры\C#\Курсы\MyWPFTech\MyWPFTech\obj\Debug\MyWPFTech.csproj.GenerateResource.Cache
+D:\Игры\C#\CSharpCourseChuhalo\ChuhaloArtem\Tech\MyWPFTech\MyWPFTech\bin\Debug\MyWPFTech.exe.config
+D:\Игры\C#\CSharpCourseChuhalo\ChuhaloArtem\Tech\MyWPFTech\MyWPFTech\obj\Debug\MyWPFTech.exe
+D:\Игры\C#\CSharpCourseChuhalo\ChuhaloArtem\Tech\MyWPFTech\MyWPFTech\obj\Debug\MyWPFTech.pdb
+D:\Игры\C#\CSharpCourseChuhalo\ChuhaloArtem\Tech\MyWPFTech\MyWPFTech\bin\Debug\MyWPFTech.exe
+D:\Игры\C#\CSharpCourseChuhalo\ChuhaloArtem\Tech\MyWPFTech\MyWPFTech\bin\Debug\MyWPFTech.pdb
+D:\Игры\C#\CSharpCourseChuhalo\ChuhaloArtem\Tech\MyWPFTech\MyWPFTech\obj\Debug\MyWPFTech.csprojResolveAssemblyReference.cache
+D:\Игры\C#\CSharpCourseChuhalo\ChuhaloArtem\Tech\MyWPFTech\MyWPFTech\obj\Debug\MainWindow.g.cs
+D:\Игры\C#\CSharpCourseChuhalo\ChuhaloArtem\Tech\MyWPFTech\MyWPFTech\obj\Debug\App.g.cs
+D:\Игры\C#\CSharpCourseChuhalo\ChuhaloArtem\Tech\MyWPFTech\MyWPFTech\obj\Debug\MyWPFTech_MarkupCompile.cache
+D:\Игры\C#\CSharpCourseChuhalo\ChuhaloArtem\Tech\MyWPFTech\MyWPFTech\obj\Debug\MyWPFTech_MarkupCompile.lref
+D:\Игры\C#\CSharpCourseChuhalo\ChuhaloArtem\Tech\MyWPFTech\MyWPFTech\obj\Debug\MainWindow.baml
+D:\Игры\C#\CSharpCourseChuhalo\ChuhaloArtem\Tech\MyWPFTech\MyWPFTech\obj\Debug\MyWPFTech.g.resources
+D:\Игры\C#\CSharpCourseChuhalo\ChuhaloArtem\Tech\MyWPFTech\MyWPFTech\obj\Debug\MyWPFTech.Properties.Resources.resources
+D:\Игры\C#\CSharpCourseChuhalo\ChuhaloArtem\Tech\MyWPFTech\MyWPFTech\obj\Debug\MyWPFTech.csproj.GenerateResource.Cache

@@ -1,0 +1,18 @@
+﻿<Window x:Class="MessageMVVM.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MessageMVVM"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Window.Resources>
+        <local:MainWindowViewModel x:Key="vm"></local:MainWindowViewModel>
+    </Window.Resources>
+    <Window.DataContext>
+        <Binding Mode="OneWay" Path="OpenWindowCommand" Source="{StaticResource vm}"/>
+    </Window.DataContext>
+    <Grid>
+        <Button VerticalAlignment="Center" Padding="10, 5" Margin="10" Command="{Binding Mode=OneWay}">Open Window</Button>
+    </Grid>
+</Window>

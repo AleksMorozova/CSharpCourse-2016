@@ -1,0 +1,6 @@
+C:\Users\USER\Documents\Visual Studio 2015\Projects\6\HomeWork(Task3)\HomeWork(Task3)\bin\Debug\HomeWork(Task3).exe.config
+C:\Users\USER\Documents\Visual Studio 2015\Projects\6\HomeWork(Task3)\HomeWork(Task3)\obj\Debug\HomeWork(Task3).csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2015\Projects\6\HomeWork(Task3)\HomeWork(Task3)\bin\Debug\HomeWork(Task3).exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\6\HomeWork(Task3)\HomeWork(Task3)\bin\Debug\HomeWork(Task3).pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\6\HomeWork(Task3)\HomeWork(Task3)\obj\Debug\HomeWork(Task3).exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\6\HomeWork(Task3)\HomeWork(Task3)\obj\Debug\HomeWork(Task3).pdb

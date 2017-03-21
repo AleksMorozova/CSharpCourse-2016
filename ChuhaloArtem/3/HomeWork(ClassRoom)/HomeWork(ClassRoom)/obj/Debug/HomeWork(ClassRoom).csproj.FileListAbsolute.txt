@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\HomeWork(ClassRoom)\HomeWork(ClassRoom)\bin\Debug\HomeWork(ClassRoom).exe.config
+c:\users\user\documents\visual studio 2015\Projects\HomeWork(ClassRoom)\HomeWork(ClassRoom)\bin\Debug\HomeWork(ClassRoom).exe
+c:\users\user\documents\visual studio 2015\Projects\HomeWork(ClassRoom)\HomeWork(ClassRoom)\bin\Debug\HomeWork(ClassRoom).pdb
+c:\users\user\documents\visual studio 2015\Projects\HomeWork(ClassRoom)\HomeWork(ClassRoom)\obj\Debug\HomeWork(ClassRoom).csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\HomeWork(ClassRoom)\HomeWork(ClassRoom)\obj\Debug\HomeWork(ClassRoom).exe
+c:\users\user\documents\visual studio 2015\Projects\HomeWork(ClassRoom)\HomeWork(ClassRoom)\obj\Debug\HomeWork(ClassRoom).pdb

@@ -1,0 +1,6 @@
+D:\Игры\C#\Курсы\4\HomeWork(Task2)\HomeWork(Task2)\bin\Debug\HomeWork(Task2).exe.config
+D:\Игры\C#\Курсы\4\HomeWork(Task2)\HomeWork(Task2)\obj\Debug\HomeWork(Task2).csprojResolveAssemblyReference.cache
+D:\Игры\C#\Курсы\4\HomeWork(Task2)\HomeWork(Task2)\bin\Debug\HomeWork(Task2).exe
+D:\Игры\C#\Курсы\4\HomeWork(Task2)\HomeWork(Task2)\bin\Debug\HomeWork(Task2).pdb
+D:\Игры\C#\Курсы\4\HomeWork(Task2)\HomeWork(Task2)\obj\Debug\HomeWork(Task2).exe
+D:\Игры\C#\Курсы\4\HomeWork(Task2)\HomeWork(Task2)\obj\Debug\HomeWork(Task2).pdb

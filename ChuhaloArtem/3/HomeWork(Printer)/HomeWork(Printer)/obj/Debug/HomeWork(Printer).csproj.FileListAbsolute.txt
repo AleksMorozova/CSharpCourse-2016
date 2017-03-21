@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2015\Projects\HomeWork(Printer)\HomeWork(Printer)\bin\Debug\HomeWork(Printer).exe.config
+c:\users\user\documents\visual studio 2015\Projects\HomeWork(Printer)\HomeWork(Printer)\bin\Debug\HomeWork(Printer).exe
+c:\users\user\documents\visual studio 2015\Projects\HomeWork(Printer)\HomeWork(Printer)\bin\Debug\HomeWork(Printer).pdb
+c:\users\user\documents\visual studio 2015\Projects\HomeWork(Printer)\HomeWork(Printer)\obj\Debug\HomeWork(Printer).csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\HomeWork(Printer)\HomeWork(Printer)\obj\Debug\HomeWork(Printer).exe
+c:\users\user\documents\visual studio 2015\Projects\HomeWork(Printer)\HomeWork(Printer)\obj\Debug\HomeWork(Printer).pdb
+D:\Игры\C#\Курсы\3\HomeWork(Printer)\HomeWork(Printer)\bin\Debug\HomeWork(Printer).exe.config
+D:\Игры\C#\Курсы\3\HomeWork(Printer)\HomeWork(Printer)\obj\Debug\HomeWork(Printer).exe
+D:\Игры\C#\Курсы\3\HomeWork(Printer)\HomeWork(Printer)\obj\Debug\HomeWork(Printer).pdb

@@ -1,0 +1,10 @@
+D:\Игры\C#\Курсы\MyEF\MyEF\bin\Debug\MyEF.exe.config
+D:\Игры\C#\Курсы\MyEF\MyEF\bin\Debug\MyEF.exe
+D:\Игры\C#\Курсы\MyEF\MyEF\bin\Debug\MyEF.pdb
+D:\Игры\C#\Курсы\MyEF\MyEF\obj\Debug\MyEF.csprojResolveAssemblyReference.cache
+D:\Игры\C#\Курсы\MyEF\MyEF\obj\Debug\MyEF.exe
+D:\Игры\C#\Курсы\MyEF\MyEF\obj\Debug\MyEF.pdb
+D:\Игры\C#\Курсы\MyEF\MyEF\bin\Debug\EntityFramework.dll
+D:\Игры\C#\Курсы\MyEF\MyEF\bin\Debug\EntityFramework.SqlServer.dll
+D:\Игры\C#\Курсы\MyEF\MyEF\bin\Debug\EntityFramework.xml
+D:\Игры\C#\Курсы\MyEF\MyEF\bin\Debug\EntityFramework.SqlServer.xml

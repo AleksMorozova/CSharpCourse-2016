@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\Условные конструкции\Условные конструкции\bin\Debug\Условные конструкции.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Условные конструкции\Условные конструкции\bin\Debug\Условные конструкции.exe
+c:\users\user\documents\visual studio 2015\Projects\Условные конструкции\Условные конструкции\bin\Debug\Условные конструкции.pdb
+c:\users\user\documents\visual studio 2015\Projects\Условные конструкции\Условные конструкции\obj\Debug\Условные конструкции.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Условные конструкции\Условные конструкции\obj\Debug\Условные конструкции.exe
+c:\users\user\documents\visual studio 2015\Projects\Условные конструкции\Условные конструкции\obj\Debug\Условные конструкции.pdb

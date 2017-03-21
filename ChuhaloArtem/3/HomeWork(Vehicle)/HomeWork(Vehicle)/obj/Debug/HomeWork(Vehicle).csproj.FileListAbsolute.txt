@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2015\Projects\HomeWork(Vehicle)\HomeWork(Vehicle)\bin\Debug\HomeWork(Vehicle).exe.config
+c:\users\user\documents\visual studio 2015\Projects\HomeWork(Vehicle)\HomeWork(Vehicle)\bin\Debug\HomeWork(Vehicle).exe
+c:\users\user\documents\visual studio 2015\Projects\HomeWork(Vehicle)\HomeWork(Vehicle)\bin\Debug\HomeWork(Vehicle).pdb
+c:\users\user\documents\visual studio 2015\Projects\HomeWork(Vehicle)\HomeWork(Vehicle)\obj\Debug\HomeWork(Vehicle).csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\HomeWork(Vehicle)\HomeWork(Vehicle)\obj\Debug\HomeWork(Vehicle).exe
+c:\users\user\documents\visual studio 2015\Projects\HomeWork(Vehicle)\HomeWork(Vehicle)\obj\Debug\HomeWork(Vehicle).pdb
+D:\Игры\C#\Курсы\3\HomeWork(Vehicle)\HomeWork(Vehicle)\bin\Debug\HomeWork(Vehicle).exe.config
+D:\Игры\C#\Курсы\3\HomeWork(Vehicle)\HomeWork(Vehicle)\obj\Debug\HomeWork(Vehicle).exe
+D:\Игры\C#\Курсы\3\HomeWork(Vehicle)\HomeWork(Vehicle)\obj\Debug\HomeWork(Vehicle).pdb

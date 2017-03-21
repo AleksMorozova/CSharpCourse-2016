@@ -1,0 +1,5 @@
+C:\Users\USER\Documents\Visual Studio 2015\Projects\6\HomeWork6(Task4)\HomeWork6(Task4)\bin\Debug\HomeWork6(Task4).exe.config
+C:\Users\USER\Documents\Visual Studio 2015\Projects\6\HomeWork6(Task4)\HomeWork6(Task4)\bin\Debug\HomeWork6(Task4).exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\6\HomeWork6(Task4)\HomeWork6(Task4)\bin\Debug\HomeWork6(Task4).pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\6\HomeWork6(Task4)\HomeWork6(Task4)\obj\Debug\HomeWork6(Task4).exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\6\HomeWork6(Task4)\HomeWork6(Task4)\obj\Debug\HomeWork6(Task4).pdb

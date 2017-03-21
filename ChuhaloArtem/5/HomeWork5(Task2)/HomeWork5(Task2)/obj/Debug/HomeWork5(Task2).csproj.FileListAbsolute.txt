@@ -1,0 +1,10 @@
+c:\users\user\documents\visual studio 2015\Projects\HomeWork5(Task2)\HomeWork5(Task2)\bin\Debug\HomeWork5(Task2).exe.config
+c:\users\user\documents\visual studio 2015\Projects\HomeWork5(Task2)\HomeWork5(Task2)\bin\Debug\HomeWork5(Task2).exe
+c:\users\user\documents\visual studio 2015\Projects\HomeWork5(Task2)\HomeWork5(Task2)\bin\Debug\HomeWork5(Task2).pdb
+c:\users\user\documents\visual studio 2015\Projects\HomeWork5(Task2)\HomeWork5(Task2)\obj\Debug\HomeWork5(Task2).exe
+c:\users\user\documents\visual studio 2015\Projects\HomeWork5(Task2)\HomeWork5(Task2)\obj\Debug\HomeWork5(Task2).pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\5\HomeWork5(Task2)\HomeWork5(Task2)\bin\Debug\HomeWork5(Task2).exe.config
+C:\Users\USER\Documents\Visual Studio 2015\Projects\5\HomeWork5(Task2)\HomeWork5(Task2)\obj\Debug\HomeWork5(Task2).exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\5\HomeWork5(Task2)\HomeWork5(Task2)\obj\Debug\HomeWork5(Task2).pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\5\HomeWork5(Task2)\HomeWork5(Task2)\bin\Debug\HomeWork5(Task2).exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\5\HomeWork5(Task2)\HomeWork5(Task2)\bin\Debug\HomeWork5(Task2).pdb

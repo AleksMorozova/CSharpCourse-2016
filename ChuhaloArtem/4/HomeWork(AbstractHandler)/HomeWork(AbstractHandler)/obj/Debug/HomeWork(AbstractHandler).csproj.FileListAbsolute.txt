@@ -1,0 +1,6 @@
+D:\Игры\C#\Курсы\4\HomeWork(AbstractHandler)\HomeWork(AbstractHandler)\bin\Debug\HomeWork(AbstractHandler).exe.config
+D:\Игры\C#\Курсы\4\HomeWork(AbstractHandler)\HomeWork(AbstractHandler)\obj\Debug\HomeWork(AbstractHandler).csprojResolveAssemblyReference.cache
+D:\Игры\C#\Курсы\4\HomeWork(AbstractHandler)\HomeWork(AbstractHandler)\bin\Debug\HomeWork(AbstractHandler).exe
+D:\Игры\C#\Курсы\4\HomeWork(AbstractHandler)\HomeWork(AbstractHandler)\bin\Debug\HomeWork(AbstractHandler).pdb
+D:\Игры\C#\Курсы\4\HomeWork(AbstractHandler)\HomeWork(AbstractHandler)\obj\Debug\HomeWork(AbstractHandler).exe
+D:\Игры\C#\Курсы\4\HomeWork(AbstractHandler)\HomeWork(AbstractHandler)\obj\Debug\HomeWork(AbstractHandler).pdb
